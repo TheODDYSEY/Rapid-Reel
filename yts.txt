@@ -1,0 +1,1076 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>Download all YIFY Movies Torrents - YTS</title>
+<meta charset="utf-8"/>
+<!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <![endif]-->
+<meta content="width=device-width, minimal-ui, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+<meta content="Download YIFY Movies: Monkey Man, Arthur the King, Problemista, Rebel Moon - Part Two: The Scargiver, Late Night with the Devil, The Three Musketeers - Part II: Milady" name="description"/>
+<meta content="yts, yify, yts yify, yify movies, yts movies, yts torrents, yify torrents, yts.mx, yts.ag, yts.am, yts.lt" name="keywords"/>
+<meta content="Download all YIFY Movies Torrents - YTS" property="og:title"/>
+<meta content="https://yts.mx/assets/images/website/og_yts_logo.png" property="og:image"/>
+<meta content="Download YIFY Movies: Monkey Man, Arthur the King, Problemista, Rebel Moon - Part Two: The Scargiver, Late Night with the Devil, The Three Musketeers - Part II: Milady" property="og:description"/>
+<meta content="https%3A%2F%2Fyts.mx%2Fbrowse-movies%2F0%2Fall%2Fall%2F0%2Ffeatured%2F0%2Fall" property="og:url"/>
+<meta content="noindex, follow" name="robots"/>
+<!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" /> <![endif]-->
+<link href="/assets/images/website/favicon.ico" rel="shortcut icon"/>
+<link href="/assets/images/website/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/assets/images/website/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/assets/images/website/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/assets/images/website/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/assets/images/website/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/assets/images/website/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/assets/images/website/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/assets/images/website/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/assets/images/website/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/assets/images/website/favicon-160x160.png" rel="icon" sizes="160x160" type="image/png"/>
+<link href="/assets/images/website/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/assets/images/website/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/assets/images/website/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<meta content="#00a300" name="msapplication-TileColor"/>
+<meta content="/assets/images/website/mstile-144x144.png" name="msapplication-TileImage"/>
+<meta content="/assets/images/website/browserconfig.xml" name="msapplication-config"/>
+<link href="/opensearch.xml" rel="search" title="YTS - The Official Home of YIFY Movie Torrent Downloads" type="application/opensearchdescription+xml">
+<link href="/assets/fonts/fonts.css" rel="stylesheet"/>
+<link href="/assets/minified/2bacb5de663bc55f0cbed2b4a7d1504dc.css?2" rel="stylesheet"/>
+<script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "WebSite",
+            "url": "https://yts.mx/",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://yts.mx/browse-movies/{search_term_string}/all/all/0/latest",
+                "query-input": "required name=search_term_string"
+            }
+        }
+        </script>
+</link></meta></head>
+<body class="non-touch">
+<header class="nav-bar">
+<div class="nav-logo pull-left">
+<a href="https://yts.mx/"><img alt="YIFY" src="https://yts.mx/assets/images/website/logo-YTS.svg"/></a>
+</div>
+<span class="header-slogan hidden-xs pull-left">HD movies at the smallest file size.</span>
+<div class="main-nav-links hidden-sm hidden-xs">
+<form accept-charset="UTF-8" action="https://yts.mx/search-movies" id="quick-search" method="GET" name="quick-search">
+<div id="quick-search-container">
+<input autocomplete="off" id="quick-search-input" name="query" type="search" value="Quick search"/>
+<div class="ajax-spinner"></div>
+</div>
+</form>
+<ul class="nav-links">
+<li><a href="https://yts.mx/"> Home </a></li>
+<li><a href="https://yts.mx/browse-movies/0/2160p/all/0/latest/0/all" style="color: #6AC045"> 4K </a></li>
+<li><a href="https://yts.mx/trending-movies"> Trending </a></li>
+<li><a href="https://yts.mx/browse-movies"> Browse Movies </a></li>
+</ul>
+<ul class="nav-links nav-link-guest">
+<li><a class="login-nav-btn" href="javascript:void(0)"> Login </a>  |  <a class="register-nav-btn" href="javascript:void(0)"> Register </a></li>
+</ul>
+</div>
+<div class="nav-mobile-buttons hidden-md hidden-lg">
+<a class="touchable" href="javascript:void(0)" id="mobile-search-btn"> <span class="glyphicon glyphicon-search"></span> </a>
+<a class="touchable" href="https://yts.mx/browse-movies/0/2160p/all/0/latest/0/all" style="color: #6AC045"> <b>4K</b> </a>
+<a class="touchable" href="https://yts.mx/trending-movies"> <span class="glyphicon glyphicon-stats"></span> </a>
+<a class="touchable" href="https://yts.mx/browse-movies"> <span class="glyphicon glyphicon-list-alt"></span> </a>
+<a class="touchable" href="https://yts.mx/login"> <span class="glyphicon glyphicon-user"></span> </a>
+</div>
+</header>
+<div id="background-image" style="background: url(https://img.yts.mx/assets/images/movies//background.jpg) no-repeat center center; background-size: cover; -webkit-background-size: cover;-moz-background-size: cover; -o-background-size: cover;"></div>
+<div id="background-overlay"></div>
+<div class="modal modal-auth hidden-xs hidden-sm">
+<div class="modal-container">
+<div class="modal-switcher">
+<span id="modal-login"> Login </span>
+<span id="modal-register"> Register </span>
+</div>
+<div class="modal-content">
+<div class="modal-login-content">
+<form accept-charset="UTF-8" action="https://yts.mx/" autocapitalize="off" autocorrect="off" method="POST" spellcheck="off">
+<input name="_token" type="hidden" value="5b79d3b65473d0a0d5b9a8ef11a01f689e723d8de7f1451875a8c5545367cf28"/>
+<span class="error-msg"></span>
+<div class="inner-addon">
+<span class="glyphicon glyphicon-user"></span>
+<input autocapitalize="off" autocorrect="off" name="username" placeholder="Username or Email" spellcheck="off" type="text"/>
+</div>
+<div class="inner-addon">
+<span class="glyphicon glyphicon-lock"></span>
+<input autocapitalize="off" autocorrect="off" name="password" placeholder="Password" spellcheck="off" type="password" value=""/>
+</div>
+<button class="button-green-download2-big" type="button">Login</button>
+</form>
+<p class="bottom-msg">
+<a class="forgotpassword-nav-btn" href="javascript:void(0)">Forgot your password?</a>
+</p>
+</div>
+<div class="modal-register-content">
+<form accept-charset="UTF-8" action="https://yts.mx/" autocapitalize="off" autocomplete="off" autocorrect="off" method="POST" spellcheck="off">
+<input name="_token" type="hidden" value="5b79d3b65473d0a0d5b9a8ef11a01f689e723d8de7f1451875a8c5545367cf28"/>
+<span class="error-msg"></span>
+<div class="inner-addon">
+<span class="glyphicon glyphicon-user"></span>
+<input autocapitalize="off" autocomplete="off" autocorrect="off" name="username" placeholder="Username" spellcheck="off" type="text"/>
+</div>
+<div class="inner-addon">
+<span class="glyphicon glyphicon-envelope"></span>
+<input autocapitalize="off" autocomplete="off" autocorrect="off" name="email" placeholder="E-Mail (no confirmation needed)" spellcheck="off" type="email"/>
+</div>
+<div class="inner-addon">
+<span class="glyphicon glyphicon-lock"></span>
+<input autocapitalize="off" autocomplete="off" autocorrect="off" name="password" placeholder="Password" spellcheck="off" type="password" value=""/>
+</div>
+<div class="inner-addon">
+<span class="glyphicon glyphicon-lock"></span>
+<input autocapitalize="off" autocomplete="off" autocorrect="off" name="password_confirmation" placeholder="Confirm Password" spellcheck="off" type="password" value=""/>
+</div>
+<span class="error-msg"><span style="color: #666666">By clicking Register, you agree to our</span> <a href="/terms" target="_blank">Terms and Conditions</a></span>
+<button class="button-green-download2-big" type="button">Register</button>
+</form>
+</div>
+<div class="modal-forgotpass-content">
+<form accept-charset="UTF-8" action="https://yts.mx/" autocapitalize="off" autocomplete="off" autocorrect="off" method="POST" spellcheck="off">
+<input name="_token" type="hidden" value="5b79d3b65473d0a0d5b9a8ef11a01f689e723d8de7f1451875a8c5545367cf28"/>
+<span class="error-msg"></span>
+<p class="info-msg"> If you have Forgotten your password, just type in your E-mail Address and YTS will send you a link to Reset Your Password. </p>
+<div class="inner-addon">
+<span class="glyphicon glyphicon-envelope"></span>
+<input autocapitalize="off" autocomplete="off" autocorrect="off" name="email" placeholder="E-Mail" spellcheck="off" type="email"/>
+</div>
+<button class="button-green-download2-big" type="button">Reset Password</button>
+</form>
+<p class="bottom-msg">
+<a class="login-nav-btn" href="javascript:void(0)">Back to login</a>
+</p>
+</div>
+<div class="modal-activate-account-content">
+<p class="info-msg">
+<b>Thanks for signing up to YTS.MX (YIFY Torrents Home)!</b><br/>Your YTS account is active now and you can login to download YIFY torrents.
+</p>
+</div>
+<div class="modal-loading-content">
+<img alt="ajax spinner loading" src="/assets/images/website/ajax-spinner.gif"/>
+<p class="info-msg"> Loading, please wait </p>
+</div>
+</div>
+</div>
+</div>
+<div class="main-content">
+<div class="hidden-md hidden-lg" id="mobile-search-input">
+<form accept-charset="UTF-8" action="https://yts.mx/search-movies" method="POST">
+<input name="_token" type="hidden" value="5b79d3b65473d0a0d5b9a8ef11a01f689e723d8de7f1451875a8c5545367cf28"/>
+<div class="input-group container search-query">
+<input autocomplete="off" autocorrect="off" class="form-control" name="keyword" placeholder="Search for a movie…" type="search"/>
+<span class="input-group-btn"> <button class="btn btn-success" type="submit">Search</button> </span>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-xs-10">
+<div class="selects-container">
+<p>Quality:</p>
+<select name="quality">
+<option selected="selected" value="all">All</option>
+<option value="480p">480p</option>
+<option value="720p">720p</option>
+<option value="1080p">1080p</option>
+<option value="1080p.x265">1080p.x265</option>
+<option value="2160p">2160p</option>
+<option value="3D">3D</option>
+</select>
+</div>
+<div class="selects-container">
+<p>Genre:</p>
+<select name="genre">
+<option selected="selected" value="all">All</option>
+<option value="action">Action</option>
+<option value="adventure">Adventure</option>
+<option value="animation">Animation</option>
+<option value="biography">Biography</option>
+<option value="comedy">Comedy</option>
+<option value="crime">Crime</option>
+<option value="documentary">Documentary</option>
+<option value="drama">Drama</option>
+<option value="family">Family</option>
+<option value="fantasy">Fantasy</option>
+<option value="film-noir">Film-Noir</option>
+<option value="game-show">Game-Show</option>
+<option value="history">History</option>
+<option value="horror">Horror</option>
+<option value="music">Music</option>
+<option value="musical">Musical</option>
+<option value="mystery">Mystery</option>
+<option value="news">News</option>
+<option value="reality-tv">Reality-TV</option>
+<option value="romance">Romance</option>
+<option value="sci-fi">Sci-Fi</option>
+<option value="sport">Sport</option>
+<option value="talk-show">Talk-Show</option>
+<option value="thriller">Thriller</option>
+<option value="war">War</option>
+<option value="western">Western</option>
+</select>
+</div>
+<div class="selects-container">
+<p>Year:</p>
+<select name="year">
+<option selected="selected" value="0">All</option>
+<option value="2024">2024</option>
+<option value="2023">2023</option>
+<option value="2020-2024">2020-now</option>
+<option value="2010-2024">2010-now</option>
+<option value="2010-2019">2010-2019</option>
+<option value="2000-2009">2000-2009</option>
+<option value="1990-1999">1990-1999</option>
+<option value="1980-1989">1980-1989</option>
+<option value="1970-1979">1970-1979</option>
+<option value="1900-1969">1900-1969</option>
+</select>
+</div>
+</div>
+<div class="col-xs-10">
+<div class="selects-container">
+<p>Rating:</p>
+<select name="rating">
+<option selected="selected" value="0">All</option>
+<option value="9">9+</option>
+<option value="8">8+</option>
+<option value="7">7+</option>
+<option value="6">6+</option>
+<option value="5">5+</option>
+<option value="4">4+</option>
+<option value="3">3+</option>
+<option value="2">2+</option>
+<option value="1">1+</option>
+</select>
+</div>
+<div class="selects-container">
+<p>Language:</p>
+<select name="language">
+<option value="en">English</option>
+<option value="foreign">Foreign</option>
+<option selected="selected" value="all">--------All--------</option>
+<option value="fr">French (2908)</option>
+<option value="ja">Japanese (2589)</option>
+<option value="es">Spanish (1593)</option>
+<option value="it">Italian (1386)</option>
+<option value="de">German (1127)</option>
+<option value="zh">Chinese (988)</option>
+<option value="ko">Korean (868)</option>
+<option value="cn">Cantonese (766)</option>
+<option value="hi">Hindi (687)</option>
+<option value="sv">Swedish (407)</option>
+<option value="ru">Russian (388)</option>
+<option value="pt">Portuguese (384)</option>
+<option value="ro">Romanian (338)</option>
+<option value="pl">Polish (333)</option>
+<option value="nl">Dutch (242)</option>
+<option value="th">Thai (224)</option>
+<option value="da">Danish (215)</option>
+<option value="tr">Turkish (214)</option>
+<option value="ar">Arabic (149)</option>
+<option value="no">Norwegian (149)</option>
+<option value="ta">Tamil (149)</option>
+<option value="id">Indonesian (146)</option>
+<option value="fi">Finnish (131)</option>
+<option value="te">Telugu (126)</option>
+<option value="hu">Hungarian (125)</option>
+<option value="vi">Vietnamese (124)</option>
+<option value="cs">Czech (114)</option>
+<option value="tl">Tagalog (92)</option>
+<option value="fa">Persian (88)</option>
+<option value="et">Estonian (61)</option>
+<option value="uk">Ukrainian (57)</option>
+<option value="el">Greek (54)</option>
+<option value="he">Hebrew (51)</option>
+<option value="ml">Malayalam (48)</option>
+<option value="pa">Punjabi (48)</option>
+<option value="ms">Malay (34)</option>
+<option value="bn">Bangla (28)</option>
+<option value="ca">Catalan (26)</option>
+<option value="is">Icelandic (22)</option>
+<option value="ur">Urdu (20)</option>
+<option value="sk">Slovak (19)</option>
+<option value="sr">Serbian (19)</option>
+<option value="kn">Kannada (18)</option>
+<option value="mr">Marathi (15)</option>
+<option value="lv">Latvian (13)</option>
+<option value="lt">Lithuanian (13)</option>
+<option value="xx">xx (12)</option>
+<option value="ka">Georgian (10)</option>
+<option value="hr">Croatian (10)</option>
+<option value="bg">Bulgarian (10)</option>
+<option value="gl">Galician (9)</option>
+<option value="eu">Basque (8)</option>
+<option value="sh">Serbo-Croatian (8)</option>
+<option value="mk">Macedonian (7)</option>
+<option value="ku">Kurdish (7)</option>
+<option value="af">Afrikaans (6)</option>
+<option value="bs">Bosnian (6)</option>
+<option value="ga">Irish (6)</option>
+<option value="wo">Wolof (6)</option>
+<option value="yo">Yoruba (6)</option>
+<option value="sw">Swahili (5)</option>
+<option value="bo">Tibetan (5)</option>
+<option value="kk">Kazakh (5)</option>
+<option value="sq">Albanian (5)</option>
+<option value="am">Amharic (4)</option>
+<option value="hy">Armenian (4)</option>
+<option value="sl">Slovenian (4)</option>
+<option value="yue">Cantonese (4)</option>
+<option value="km">Khmer (3)</option>
+<option value="ps">Pashto (3)</option>
+<option value="st">Southern Sotho (3)</option>
+<option value="zu">Zulu (3)</option>
+<option value="xh">Xhosa (3)</option>
+<option value="gu">Gujarati (3)</option>
+<option value="ab">Abkhazian (2)</option>
+<option value="la">Latin (2)</option>
+<option value="mn">Mongolian (2)</option>
+<option value="nb">Norwegian Bokmål (2)</option>
+<option value="os">Ossetic (2)</option>
+<option value="yi">Yiddish (2)</option>
+<option value="mi">Maori (2)</option>
+<option value="ak">Akan (2)</option>
+<option value="ht">Haitian Creole (2)</option>
+<option value="mt">Maltese (2)</option>
+<option value="cmn">cmn (2)</option>
+<option value="my">Burmese (2)</option>
+<option value="ne">Nepali (2)</option>
+<option value="lo">Lao (2)</option>
+<option value="bm">Bambara (2)</option>
+<option value="dz">Dzongkha (2)</option>
+<option value="aa">Afar (1)</option>
+<option value="lb">Luxembourgish (1)</option>
+<option value="ky">Kyrgyz (1)</option>
+<option value="az">Azerbaijani (1)</option>
+<option value="so">Somali (1)</option>
+<option value="iu">Inuktitut (1)</option>
+<option value="lg">Ganda (1)</option>
+<option value="be">Belarusian (1)</option>
+<option value="ig">Igbo (1)</option>
+<option value="cy">Welsh (1)</option>
+<option value="zxx">No linguistic content (1)</option>
+<option value="fil">Filipino (1)</option>
+<option value="tw">Twi (1)</option>
+<option value="rw">Kinyarwanda (1)</option>
+<option value="or">Odia (1)</option>
+<option value="ase">American Sign Language (1)</option>
+<option value="nan">Min Nan Chinese (1)</option>
+<option value="ber">ber (1)</option>
+<option value="qag">qag (1)</option>
+<option value="gsw">Swiss German (1)</option>
+<option value="ln">Lingala (1)</option>
+<option value="iba">Iban (1)</option>
+<option value="cr">Cree (1)</option>
+<option value="jv">Javanese (1)</option>
+<option value="tn">Tswana (1)</option>
+<option value="qab">qab (1)</option>
+<option value="rom">Romany (1)</option>
+<option value="mo">Romanian (1)</option>
+<option value="sa">Sanskrit (1)</option>
+<option value="ukl">ukl (1)</option>
+<option value="ug">Uyghur (1)</option>
+<option value="kvk">kvk (1)</option>
+<option value="se">Northern Sami (1)</option>
+<option value="om">Oromo (1)</option>
+<option value="myn">myn (1)</option>
+</select>
+</div>
+<div class="selects-container selects-container-last">
+<p>Order By:</p>
+<select name="order_by">
+<option value="latest">Latest</option>
+<option value="oldest">Oldest</option>
+<option selected="selected" value="featured">Featured</option>
+<option value="seeds">Seeds</option>
+<option value="peers">Peers</option>
+<option value="year">Year</option>
+<option value="rating">IMDb Rating</option>
+<option value="likes">YTS Likes</option>
+<option value="rt_audience">RT Audience</option>
+<option value="alphabetical">Alphabetical</option>
+<option value="downloads">Downloads</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+</form>
+</div>
+<div class="ac-results hidden-sm hidden-xs">
+<ul></ul>
+</div>
+<noscript>
+<div class="container">
+<div class="row">
+<div class="col-xs-20 text-center">
+<p class="no-javascript-warning">Javascript not supported on your browser, please enable Javascript in order to fully utilize the website</p>
+</div>
+</div>
+</div>
+</noscript>
+<div class="content-dark hidden-sm hidden-xs" id="main-search">
+<div class="container">
+<form accept-charset="UTF-8" action="https://yts.mx/search-movies" method="post">
+<input name="_token" type="hidden" value="5b79d3b65473d0a0d5b9a8ef11a01f689e723d8de7f1451875a8c5545367cf28"/>
+<div id="main-search-fields" style="width: 880px;">
+<p class="pull-left term">Search Term:</p>
+<input autocomplete="off" name="keyword" type="search"/>
+<div class="selects-container">
+<p>Quality:</p>
+<select name="quality">
+<option selected="selected" value="all">All</option>
+<option value="480p">480p</option>
+<option value="720p">720p</option>
+<option value="1080p">1080p</option>
+<option value="1080p.x265">1080p.x265</option>
+<option value="2160p">2160p</option>
+<option value="3D">3D</option>
+</select>
+</div>
+<div class="selects-container">
+<p>Genre:</p>
+<select name="genre">
+<option selected="selected" value="all">All</option>
+<option value="action">Action</option>
+<option value="adventure">Adventure</option>
+<option value="animation">Animation</option>
+<option value="biography">Biography</option>
+<option value="comedy">Comedy</option>
+<option value="crime">Crime</option>
+<option value="documentary">Documentary</option>
+<option value="drama">Drama</option>
+<option value="family">Family</option>
+<option value="fantasy">Fantasy</option>
+<option value="film-noir">Film-Noir</option>
+<option value="game-show">Game-Show</option>
+<option value="history">History</option>
+<option value="horror">Horror</option>
+<option value="music">Music</option>
+<option value="musical">Musical</option>
+<option value="mystery">Mystery</option>
+<option value="news">News</option>
+<option value="reality-tv">Reality-TV</option>
+<option value="romance">Romance</option>
+<option value="sci-fi">Sci-Fi</option>
+<option value="sport">Sport</option>
+<option value="talk-show">Talk-Show</option>
+<option value="thriller">Thriller</option>
+<option value="war">War</option>
+<option value="western">Western</option>
+</select>
+</div>
+<div class="selects-container">
+<p>Rating:</p>
+<select name="rating">
+<option selected="selected" value="0">All</option>
+<option value="9">9+</option>
+<option value="8">8+</option>
+<option value="7">7+</option>
+<option value="6">6+</option>
+<option value="5">5+</option>
+<option value="4">4+</option>
+<option value="3">3+</option>
+<option value="2">2+</option>
+<option value="1">1+</option>
+</select>
+</div>
+<div class="selects-container">
+<p>Year:</p>
+<select name="year">
+<option selected="selected" value="0">All</option>
+<option value="2024">2024</option>
+<option value="2023">2023</option>
+<option value="2020-2024">2020-now</option>
+<option value="2010-2024">2010-now</option>
+<option value="2010-2019">2010-2019</option>
+<option value="2000-2009">2000-2009</option>
+<option value="1990-1999">1990-1999</option>
+<option value="1980-1989">1980-1989</option>
+<option value="1970-1979">1970-1979</option>
+<option value="1950-1969">1950-1969</option>
+<option value="1900-1949">1900-1949</option>
+</select>
+</div>
+<div class="selects-container">
+<p>Language:</p>
+<select name="language">
+<option value="en">English</option>
+<option value="foreign">Foreign</option>
+<option selected="selected" value="all">All</option>
+<option value="fr">French (2908)</option>
+<option value="ja">Japanese (2589)</option>
+<option value="es">Spanish (1593)</option>
+<option value="it">Italian (1386)</option>
+<option value="de">German (1127)</option>
+<option value="zh">Chinese (988)</option>
+<option value="ko">Korean (868)</option>
+<option value="cn">Cantonese (766)</option>
+<option value="hi">Hindi (687)</option>
+<option value="sv">Swedish (407)</option>
+<option value="ru">Russian (388)</option>
+<option value="pt">Portuguese (384)</option>
+<option value="ro">Romanian (338)</option>
+<option value="pl">Polish (333)</option>
+<option value="nl">Dutch (242)</option>
+<option value="th">Thai (224)</option>
+<option value="da">Danish (215)</option>
+<option value="tr">Turkish (214)</option>
+<option value="ar">Arabic (149)</option>
+<option value="no">Norwegian (149)</option>
+<option value="ta">Tamil (149)</option>
+<option value="id">Indonesian (146)</option>
+<option value="fi">Finnish (131)</option>
+<option value="te">Telugu (126)</option>
+<option value="hu">Hungarian (125)</option>
+<option value="vi">Vietnamese (124)</option>
+<option value="cs">Czech (114)</option>
+<option value="tl">Tagalog (92)</option>
+<option value="fa">Persian (88)</option>
+<option value="et">Estonian (61)</option>
+<option value="uk">Ukrainian (57)</option>
+<option value="el">Greek (54)</option>
+<option value="he">Hebrew (51)</option>
+<option value="ml">Malayalam (48)</option>
+<option value="pa">Punjabi (48)</option>
+<option value="ms">Malay (34)</option>
+<option value="bn">Bangla (28)</option>
+<option value="ca">Catalan (26)</option>
+<option value="is">Icelandic (22)</option>
+<option value="ur">Urdu (20)</option>
+<option value="sk">Slovak (19)</option>
+<option value="sr">Serbian (19)</option>
+<option value="kn">Kannada (18)</option>
+<option value="mr">Marathi (15)</option>
+<option value="lv">Latvian (13)</option>
+<option value="lt">Lithuanian (13)</option>
+<option value="xx">xx (12)</option>
+<option value="ka">Georgian (10)</option>
+<option value="hr">Croatian (10)</option>
+<option value="bg">Bulgarian (10)</option>
+<option value="gl">Galician (9)</option>
+<option value="eu">Basque (8)</option>
+<option value="sh">Serbo-Croatian (8)</option>
+<option value="mk">Macedonian (7)</option>
+<option value="ku">Kurdish (7)</option>
+<option value="af">Afrikaans (6)</option>
+<option value="bs">Bosnian (6)</option>
+<option value="ga">Irish (6)</option>
+<option value="wo">Wolof (6)</option>
+<option value="yo">Yoruba (6)</option>
+<option value="sw">Swahili (5)</option>
+<option value="bo">Tibetan (5)</option>
+<option value="kk">Kazakh (5)</option>
+<option value="sq">Albanian (5)</option>
+<option value="am">Amharic (4)</option>
+<option value="hy">Armenian (4)</option>
+<option value="sl">Slovenian (4)</option>
+<option value="yue">Cantonese (4)</option>
+<option value="km">Khmer (3)</option>
+<option value="ps">Pashto (3)</option>
+<option value="st">Southern Sotho (3)</option>
+<option value="zu">Zulu (3)</option>
+<option value="xh">Xhosa (3)</option>
+<option value="gu">Gujarati (3)</option>
+<option value="ab">Abkhazian (2)</option>
+<option value="la">Latin (2)</option>
+<option value="mn">Mongolian (2)</option>
+<option value="nb">Norwegian Bokmål (2)</option>
+<option value="os">Ossetic (2)</option>
+<option value="yi">Yiddish (2)</option>
+<option value="mi">Maori (2)</option>
+<option value="ak">Akan (2)</option>
+<option value="ht">Haitian Creole (2)</option>
+<option value="mt">Maltese (2)</option>
+<option value="cmn">cmn (2)</option>
+<option value="my">Burmese (2)</option>
+<option value="ne">Nepali (2)</option>
+<option value="lo">Lao (2)</option>
+<option value="bm">Bambara (2)</option>
+<option value="dz">Dzongkha (2)</option>
+<option value="aa">Afar (1)</option>
+<option value="lb">Luxembourgish (1)</option>
+<option value="ky">Kyrgyz (1)</option>
+<option value="az">Azerbaijani (1)</option>
+<option value="so">Somali (1)</option>
+<option value="iu">Inuktitut (1)</option>
+<option value="lg">Ganda (1)</option>
+<option value="be">Belarusian (1)</option>
+<option value="ig">Igbo (1)</option>
+<option value="cy">Welsh (1)</option>
+<option value="zxx">No linguistic content (1)</option>
+<option value="fil">Filipino (1)</option>
+<option value="tw">Twi (1)</option>
+<option value="rw">Kinyarwanda (1)</option>
+<option value="or">Odia (1)</option>
+<option value="ase">American Sign Language (1)</option>
+<option value="nan">Min Nan Chinese (1)</option>
+<option value="ber">ber (1)</option>
+<option value="qag">qag (1)</option>
+<option value="gsw">Swiss German (1)</option>
+<option value="ln">Lingala (1)</option>
+<option value="iba">Iban (1)</option>
+<option value="cr">Cree (1)</option>
+<option value="jv">Javanese (1)</option>
+<option value="tn">Tswana (1)</option>
+<option value="qab">qab (1)</option>
+<option value="rom">Romany (1)</option>
+<option value="mo">Romanian (1)</option>
+<option value="sa">Sanskrit (1)</option>
+<option value="ukl">ukl (1)</option>
+<option value="ug">Uyghur (1)</option>
+<option value="kvk">kvk (1)</option>
+<option value="se">Northern Sami (1)</option>
+<option value="om">Oromo (1)</option>
+<option value="myn">myn (1)</option>
+</select>
+</div>
+<div class="selects-container selects-container-last">
+<p>Order By:</p>
+<select name="order_by">
+<option value="latest">Latest</option>
+<option value="oldest">Oldest</option>
+<option selected="selected" value="featured">Featured</option>
+<option value="seeds">Seeds</option>
+<option value="peers">Peers</option>
+<option value="year">Year</option>
+<option value="rating">IMDb Rating</option>
+<option value="likes">YTS Likes</option>
+<option value="rt_audience">RT Audience</option>
+<option value="alphabetical">Alphabetical</option>
+<option value="downloads">Downloads</option>
+</select>
+</div>
+</div>
+<div id="main-search-btn">
+<input class="button-green-download2-big" type="submit" value="Search"/>
+</div>
+</form>
+</div>
+</div>
+<div class="browse-content">
+<div class="container">
+<h2><span style="font-size: 90%;"> YIFY Movies (ordered by <i>featured</i>)</span></h2>
+<div class="hidden-sm hidden-xs">
+<ul class="tsc_pagination tsc_paginationA tsc_paginationA06">
+<li class="hidden"><a href="">«</a></li><li><a class="current" href="javascript:void(0)">1</a></li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=2">2</a></li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=3">3</a></li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=4">4</a></li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=5">5</a></li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=6">6</a></li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=7">7</a></li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=8">8</a></li><li class="unavailable">...</li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=2">Next »</a></li>
+</ul>
+</div>
+<div class="hidden-md hidden-lg">
+<ul class="tsc_pagination tsc_paginationA tsc_paginationA06">
+<li class="pagination-bordered">Page 1</li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=2">Next »</a></li>
+</ul>
+</div>
+<section>
+<div class="row">
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/monkey-man-2024">
+<figure>
+<img alt="Monkey Man (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/monkey_man_2024/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">7.3 / 10</h4> <h4>Action</h4>
+<h4>Thriller</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/monkey-man-2024">Monkey Man</a>
+<div class="browse-movie-year">2024</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/arthur-the-king-2024">
+<figure>
+<img alt="Arthur the King (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/arthur_the_king_2024/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">7.2 / 10</h4> <h4>Adventure</h4>
+<h4>Drama</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/arthur-the-king-2024">Arthur the King</a>
+<div class="browse-movie-year">2024</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/problemista-2023">
+<figure>
+<img alt="Problemista (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/problemista_2023/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">7.2 / 10</h4> <h4>Comedy</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/problemista-2023">Problemista</a>
+<div class="browse-movie-year">2023</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/rebel-moon-part-two-the-scargiver-2024">
+<figure>
+<img alt="Rebel Moon - Part Two: The Scargiver (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/rebel_moon_part_two_the_scargiver_2024/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">5.2 / 10</h4> <h4>Action</h4>
+<h4>Adventure</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/rebel-moon-part-two-the-scargiver-2024">Rebel Moon - Part Two: The Scargiver</a>
+<div class="browse-movie-year">2024</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/late-night-with-the-devil-2023">
+<figure>
+<img alt="Late Night with the Devil (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/late_night_with_the_devil_2023/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">7.2 / 10</h4> <h4>Horror</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/late-night-with-the-devil-2023">Late Night with the Devil</a>
+<div class="browse-movie-year">2023</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/the-three-musketeers-part-ii-milady-2023">
+<figure>
+<img alt="The Three Musketeers - Part II: Milady (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/the_three_musketeers_part_ii_milady_2023/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">6.5 / 10</h4> <h4>Action</h4>
+<h4>Adventure</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/the-three-musketeers-part-ii-milady-2023"><span style="color: #ACD7DE; font-size: 75%;">[FR]</span> The Three Musketeers - Part II: Milady</a>
+<div class="browse-movie-year">2023</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/the-channel-2023">
+<figure>
+<img alt="The Channel (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/the_channel_2023/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">5.6 / 10</h4> <h4>Action</h4>
+<h4>Crime</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/the-channel-2023">The Channel</a>
+<div class="browse-movie-year">2023</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/one-life-2023">
+<figure>
+<img alt="One Life (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/one_life_2023/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">7.6 / 10</h4> <h4>Biography</h4>
+<h4>Drama</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/one-life-2023">One Life</a>
+<div class="browse-movie-year">2023</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/immaculate-2024">
+<figure>
+<img alt="Immaculate (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/immaculate_2024/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">6 / 10</h4> <h4>Horror</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/immaculate-2024">Immaculate</a>
+<div class="browse-movie-year">2024</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/the-bricklayer-2023">
+<figure>
+<img alt="The Bricklayer (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/the_bricklayer_2023/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">5.1 / 10</h4> <h4>Action</h4>
+<h4>Thriller</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/the-bricklayer-2023">The Bricklayer</a>
+<div class="browse-movie-year">2023</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/dune-part-two-2024">
+<figure>
+<img alt="Dune: Part Two (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/dune_part_two_2024/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">8.7 / 10</h4> <h4>Action</h4>
+<h4>Adventure</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/dune-part-two-2024">Dune: Part Two</a>
+<div class="browse-movie-year">2024</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/bombshell-2019">
+<figure>
+<img alt="Bombshell (2019) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/bombshell_2019/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">6.8 / 10</h4> <h4>Action</h4>
+<h4>Biography</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/bombshell-2019">Bombshell</a>
+<div class="browse-movie-year">2019</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/the-taste-of-things-2023">
+<figure>
+<img alt="The Taste of Things (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/the_taste_of_things_2023/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">7.5 / 10</h4> <h4>Action</h4>
+<h4>Drama</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/the-taste-of-things-2023"><span style="color: #ACD7DE; font-size: 75%;">[FR]</span> The Taste of Things</a>
+<div class="browse-movie-year">2023</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/pacific-rim-uprising-2018">
+<figure>
+<img alt="Pacific Rim: Uprising (2018) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/pacific_rim_uprising_2018/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">5.6 / 10</h4> <h4>Action</h4>
+<h4>Adventure</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/pacific-rim-uprising-2018">Pacific Rim: Uprising</a>
+<div class="browse-movie-year">2018</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/t2-trainspotting-2017">
+<figure>
+<img alt="T2 Trainspotting (2017) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/t2_trainspotting_2017/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">7.2 / 10</h4> <h4>Action</h4>
+<h4>Comedy</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/t2-trainspotting-2017">T2 Trainspotting</a>
+<div class="browse-movie-year">2017</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/sleeping-dogs-2024">
+<figure>
+<img alt="Sleeping Dogs (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/sleeping_dogs_2024/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">6 / 10</h4> <h4>Crime</h4>
+<h4>Mystery</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/sleeping-dogs-2024">Sleeping Dogs</a>
+<div class="browse-movie-year">2024</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/one-night-in-bangkok-2020">
+<figure>
+<img alt="One Night in Bangkok (2020) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/one_night_in_bangkok_2020/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">5.2 / 10</h4> <h4>Action</h4>
+<h4>Crime</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/one-night-in-bangkok-2020">One Night in Bangkok</a>
+<div class="browse-movie-year">2020</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/kung-fu-panda-4-2024">
+<figure>
+<img alt="Kung Fu Panda 4 (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/kung_fu_panda_4_2024/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">6.4 / 10</h4> <h4>Action</h4>
+<h4>Adventure</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/kung-fu-panda-4-2024">Kung Fu Panda 4</a>
+<div class="browse-movie-year">2024</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/wicked-little-letters-2023">
+<figure>
+<img alt="Wicked Little Letters (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/wicked_little_letters_2023/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">7 / 10</h4> <h4>Comedy</h4>
+<h4>Crime</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/wicked-little-letters-2023">Wicked Little Letters</a>
+<div class="browse-movie-year">2023</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/night-swim-2024">
+<figure>
+<img alt="Night Swim (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/night_swim_2024/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">4.7 / 10</h4> <h4>Action</h4>
+<h4>Horror</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/night-swim-2024">Night Swim</a>
+<div class="browse-movie-year">2024</div>
+</div>
+</div>
+</div>
+</section>
+<div class="hidden-sm hidden-xs">
+<ul class="tsc_pagination tsc_paginationA tsc_paginationA06">
+<li class="hidden"><a href="">«</a></li><li><a class="current" href="javascript:void(0)">1</a></li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=2">2</a></li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=3">3</a></li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=4">4</a></li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=5">5</a></li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=6">6</a></li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=7">7</a></li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=8">8</a></li><li class="unavailable">...</li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=2">Next »</a></li>
+</ul>
+</div>
+<div class="hidden-md hidden-lg">
+<ul class="tsc_pagination tsc_paginationA tsc_paginationA06">
+<li class="pagination-bordered">Page 1</li><li><a href="/browse-movies/0/all/all/0/featured/0/all?page=2">Next »</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="container hidden-md hidden-lg">
+<div class="row">
+<div class="mobile-footer">
+<div class="col-sm-20">
+<a href="https://yts.mx/"> <span class="glyphicon glyphicon-home"></span> <p>Home</p> </a>
+<a href="https://yts.mx/browse-movies"> <span class="glyphicon glyphicon-list-alt"></span> <p>Browse</p> </a>
+<a href="https://yts.mx/login"> <span class="glyphicon glyphicon-log-in"></span> <p>Login</p> </a>
+</div>
+<div class="col-sm-20">
+<a href="https://yts.mx/register"> <span class="glyphicon glyphicon-user"></span> <p>Register</p> </a>
+<a href="https://yts.mx/requests"> <span class="glyphicon glyphicon-asterisk"></span> <p>Requests</p> </a>
+<a href="https://yts.mx/suggestions"> <span class="glyphicon glyphicon-pushpin"></span> <p>Suggestions</p> </a>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-xs-20">
+<ul class="text-center">
+<li>YTS © 2011 - 2024</li>
+<li>-</li>
+<li><a href="https://yts.mx/blog">Blog</a></li>
+<li>-</li>
+<li><a href="https://yts.mx/dmca">DMCA</a></li>
+<li>-</li>
+<li><a href="https://yts.mx/api">API</a></li>
+<li>-</li>
+<li><a href="https://yts.mx/rss-guide">RSS</a></li>
+<li>-</li>
+<li><a href="https://yts.mx/contact">Contact</a></li>
+<li>-</li>
+<li><a href="https://yts.mx/browse-movies">Browse Movies</a></li>
+<li>-</li>
+<li><a href="https://yts.mx/requests">Requests</a></li>
+<li>-</li>
+<li><a href="https://yts.mx/login">Login</a></li>
+<li>-</li>
+<li><a href="https://yts.mx/languages">Language</a></li>
+</ul>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-20">
+<ul class="text-center">
+<li style="font-size: .80em">By using this site you agree to and accept our <a href="/terms">User Agreement</a>, which can be read <a href="/terms">here</a>.</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script src="/assets/minified/modded1.js?yify=4" type="text/javascript"></script>
+<script type="text/javascript">    !function(){let t=JSON.parse(atob("eyJ6aWQiOiI1NjU1MzEwIiwiYWMiOnsiYWRzZXJ2ZXJEb21haW4iOiJpbHZua3p0LmNvbSIsInNlbFBhdGgiOiJcL2QzLnBocCIsImFkYlZlcnNpb24iOiIyIiwic3V2NSI6eyJjZG5QYXRoIjoiXC9zY3JpcHRcL3h4QUcxLmpzIiwic2VsUGF0aCI6IlwvZDMucGhwIiwic2VsQWRUeXBlUGFyYW0iOiJtPXN1djUifSwiaXBwZyI6eyJjZG5QYXRoIjoiXC9zY3JpcHRcL21haW5fc2NyaXB0XzEyMy5qcyIsInNlbEFkVHlwZVBhcmFtIjoibT1pcHBnIn0sImF0YWciOnsiY2RuUGF0aCI6Ilwvc2NyaXB0XC9pbmRleF9hYmNfOTkuanMiLCJzZWxBZFR5cGVQYXJhbSI6Im09YXRnIn0sImF0YWd2MiI6eyJjZG5QYXRoIjoiXC9zY3JpcHRcL2F0Z3YyLmpzIn0sImludHJmIjp7InNlbEFkVHlwZVBhcmFtIjoibT1pbnRyZiJ9LCJpbnRybyI6eyJzZWxBZFR5cGVQYXJhbSI6Im09aW50cm8ifSwiaW50cm4iOnsiY2RuUGF0aCI6Ilwvc2NyaXB0XC9pbnRybi5qcyIsInNlbEFkVHlwZVBhcmFtIjoibT1pbnRybiJ9LCJ1dCI6eyJjZG5QYXRoIjoiXC9zY3JpcHRcL3V0LmpzIn0sImNkbkRvbWFpbiI6InBuY3Zhb2guY29tIiwiYWRjYXNoTGliIjp7ImNkblBhdGgiOiJcL3NjcmlwdFwvbGlCMS5qcyJ9fSwicGEiOnsiZCI6NSwicnIiOjEwfX0=")),e=t.zid,n=t.ac,r=t.pa,a=localStorage.getItem("adcsh_dbg");a&&(a=JSON.parse(a));let i=(...t)=>{a&&console.log("[adbl-switch-suv4-to-suv5]",...t)};i("zone id:",e),i("adbl sttgs:",n),i("attr:",r);let o=function(){let t={zoneId:e,tagVersionSuffix:"-sw-adbl-suv5"},n=r["element-list"],a="allow"===r["element-action"],o=r["country-list"],s="allow"===r["country-action"];return n&&(t.targetElementsCssSelector=n,t.triggerOnTargetElementsClick=a),o&&(t.targetCountries=o.trim().split(","),t.triggerOnTargetCountries=s),i("pop settings generated:",t),t},s=function(){if(void 0!==document.head&&null!==document.head){let t=document.createElement("script");t.type="text/javascript",t.src="//"+n.cdnDomain+n.adcashLib.cdnPath,t.setAttribute("adblock-settings",JSON.stringify(n)),t.onload=function(){i("lib loaded. run pop"),aclib.runPop(o())},t.onerror=function(t){i("error:",t)},i("append script to head"),document.head.append(t);return}setTimeout(s,100)};s()}();
+
+</script>
+<script>(function(){if (!document.body) return;var js = "window['__CF$cv$params']={r:'878dca6f98310372',t:'MTcxMzg3NDY1MC4zNzIwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
