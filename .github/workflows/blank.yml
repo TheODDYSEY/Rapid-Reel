@@ -1,0 +1,31 @@
+name: YTS Movie Notifyer
+on:
+  schedule:
+    - cron: '0 3 * * *'  # This will run every day at 6 AM UTC
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          lfs: true
+      - uses: iterative/setup-cml@v2
+      - name: Install Packages
+        run: pip install --upgrade pip && pip install -r requirements.txt
+      - name: Run code
+        run: python code.ipynb  # Replace with your Python script
+      - name: Display Excel File
+        run: |
+          python -c "
+          import pandas as pd
+          df = pd.read_excel('output.xlsx')
+          print(df)
+          "
