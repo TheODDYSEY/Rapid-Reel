@@ -19,7 +19,8 @@ jobs:
           lfs: true
       - uses: iterative/setup-cml@v2
       - name: Install Packages
-        run: pip install --upgrade pip && pip install -r requirements.txt
+        run: |
+        pip install --upgrade pip && pip install -r requirements.txt
       - name: Run code
         run: python code.ipynb  # Replace with your Python script
       - name: Display Excel File
