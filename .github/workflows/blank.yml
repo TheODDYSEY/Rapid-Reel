@@ -20,8 +20,6 @@ jobs:
       - uses: iterative/setup-cml@v2
       - name: Install Packages
         run: pip install --upgrade pip && pip install -r requirements.txt
-      - name: Format
-        run: black *.py
       - name: Run code
         run: python code.ipynb  # Replace with your Python script
       - name: Display Excel File
