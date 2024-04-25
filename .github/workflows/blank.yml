@@ -23,7 +23,7 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
       - name: Run code
-        run: python code.ipynb  # Replace with your Python script
+        run: python yts-scraper.py  # Replace with your Python script
       - name: Display Excel File
         env:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
