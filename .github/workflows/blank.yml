@@ -14,11 +14,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
         with:
           lfs: true
-      - uses: iterative/setup-cml@v2
-      - name: Install Packages
+      - name: Setup CML
+        uses: iterative/setup-cml@v2
+      - name: Install Python dependencies
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
