@@ -6,11 +6,11 @@
 <meta charset="utf-8"/>
 <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <![endif]-->
 <meta content="width=device-width, minimal-ui, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
-<meta content="Download YIFY Movies: Love Lies Bleeding, Monkey Man, Arthur the King, Problemista, Rebel Moon - Part Two: The Scargiver, The Three Musketeers - Part II: Milady" name="description"/>
+<meta content="Download YIFY Movies: Love Lies Bleeding, Arthur the King, Infested, Monkey Man, The Old Oak, The Mitchells vs. the Machines, The Commuter, Justice League: Crisis on Infinite Earths - Part Two" name="description"/>
 <meta content="yts, yify, yts yify, yify movies, yts movies, yts torrents, yify torrents, yts.mx, yts.ag, yts.am, yts.lt" name="keywords"/>
 <meta content="Download all YIFY Movies Torrents - YTS" property="og:title"/>
 <meta content="https://yts.mx/assets/images/website/og_yts_logo.png" property="og:image"/>
-<meta content="Download YIFY Movies: Love Lies Bleeding, Monkey Man, Arthur the King, Problemista, Rebel Moon - Part Two: The Scargiver, The Three Musketeers - Part II: Milady" property="og:description"/>
+<meta content="Download YIFY Movies: Love Lies Bleeding, Arthur the King, Infested, Monkey Man, The Old Oak, The Mitchells vs. the Machines, The Commuter, Justice League: Crisis on Infinite Earths - Part Two" property="og:description"/>
 <meta content="https%3A%2F%2Fyts.mx%2Fbrowse-movies%2F0%2Fall%2Fall%2F0%2Ffeatured%2F0%2Fall" property="og:url"/>
 <meta content="noindex, follow" name="robots"/>
 <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" /> <![endif]-->
@@ -89,7 +89,7 @@
 <div class="modal-content">
 <div class="modal-login-content">
 <form accept-charset="UTF-8" action="https://yts.mx/" autocapitalize="off" autocorrect="off" method="POST" spellcheck="off">
-<input name="_token" type="hidden" value="10e8cce455e7582a17a5da749afc0e97e75c04d86ef2df7444ea8223f2ce89fb"/>
+<input name="_token" type="hidden" value="257592b66f002a465b7477147a3cca560ecf21bc427a5320d1f2108a7b54d3c9"/>
 <span class="error-msg"></span>
 <div class="inner-addon">
 <span class="glyphicon glyphicon-user"></span>
@@ -107,7 +107,7 @@
 </div>
 <div class="modal-register-content">
 <form accept-charset="UTF-8" action="https://yts.mx/" autocapitalize="off" autocomplete="off" autocorrect="off" method="POST" spellcheck="off">
-<input name="_token" type="hidden" value="10e8cce455e7582a17a5da749afc0e97e75c04d86ef2df7444ea8223f2ce89fb"/>
+<input name="_token" type="hidden" value="257592b66f002a465b7477147a3cca560ecf21bc427a5320d1f2108a7b54d3c9"/>
 <span class="error-msg"></span>
 <div class="inner-addon">
 <span class="glyphicon glyphicon-user"></span>
@@ -131,7 +131,7 @@
 </div>
 <div class="modal-forgotpass-content">
 <form accept-charset="UTF-8" action="https://yts.mx/" autocapitalize="off" autocomplete="off" autocorrect="off" method="POST" spellcheck="off">
-<input name="_token" type="hidden" value="10e8cce455e7582a17a5da749afc0e97e75c04d86ef2df7444ea8223f2ce89fb"/>
+<input name="_token" type="hidden" value="257592b66f002a465b7477147a3cca560ecf21bc427a5320d1f2108a7b54d3c9"/>
 <span class="error-msg"></span>
 <p class="info-msg"> If you have Forgotten your password, just type in your E-mail Address and YTS will send you a link to Reset Your Password. </p>
 <div class="inner-addon">
@@ -159,7 +159,7 @@
 <div class="main-content">
 <div class="hidden-md hidden-lg" id="mobile-search-input">
 <form accept-charset="UTF-8" action="https://yts.mx/search-movies" method="POST">
-<input name="_token" type="hidden" value="10e8cce455e7582a17a5da749afc0e97e75c04d86ef2df7444ea8223f2ce89fb"/>
+<input name="_token" type="hidden" value="257592b66f002a465b7477147a3cca560ecf21bc427a5320d1f2108a7b54d3c9"/>
 <div class="input-group container search-query">
 <input autocomplete="off" autocorrect="off" class="form-control" name="keyword" placeholder="Search for a movie…" type="search"/>
 <span class="input-group-btn"> <button class="btn btn-success" type="submit">Search</button> </span>
@@ -250,15 +250,15 @@
 <option value="en">English</option>
 <option value="foreign">Foreign</option>
 <option selected="selected" value="all">--------All--------</option>
-<option value="fr">French (2913)</option>
-<option value="ja">Japanese (2593)</option>
-<option value="es">Spanish (1597)</option>
-<option value="it">Italian (1389)</option>
+<option value="fr">French (2916)</option>
+<option value="ja">Japanese (2595)</option>
+<option value="es">Spanish (1598)</option>
+<option value="it">Italian (1390)</option>
 <option value="de">German (1128)</option>
 <option value="zh">Chinese (989)</option>
-<option value="ko">Korean (868)</option>
-<option value="cn">Cantonese (765)</option>
-<option value="hi">Hindi (690)</option>
+<option value="ko">Korean (869)</option>
+<option value="cn">Cantonese (766)</option>
+<option value="hi">Hindi (692)</option>
 <option value="sv">Swedish (407)</option>
 <option value="ru">Russian (389)</option>
 <option value="pt">Portuguese (384)</option>
@@ -268,8 +268,8 @@
 <option value="th">Thai (224)</option>
 <option value="tr">Turkish (217)</option>
 <option value="da">Danish (215)</option>
+<option value="ar">Arabic (150)</option>
 <option value="no">Norwegian (150)</option>
-<option value="ar">Arabic (149)</option>
 <option value="ta">Tamil (149)</option>
 <option value="id">Indonesian (146)</option>
 <option value="fi">Finnish (132)</option>
@@ -286,7 +286,7 @@
 <option value="ml">Malayalam (49)</option>
 <option value="pa">Punjabi (48)</option>
 <option value="ms">Malay (34)</option>
-<option value="bn">Bangla (29)</option>
+<option value="bn">Bangla (30)</option>
 <option value="ca">Catalan (26)</option>
 <option value="is">Icelandic (22)</option>
 <option value="ur">Urdu (20)</option>
@@ -413,7 +413,7 @@
 <div class="content-dark hidden-sm hidden-xs" id="main-search">
 <div class="container">
 <form accept-charset="UTF-8" action="https://yts.mx/search-movies" method="post">
-<input name="_token" type="hidden" value="10e8cce455e7582a17a5da749afc0e97e75c04d86ef2df7444ea8223f2ce89fb"/>
+<input name="_token" type="hidden" value="257592b66f002a465b7477147a3cca560ecf21bc427a5320d1f2108a7b54d3c9"/>
 <div id="main-search-fields" style="width: 880px;">
 <p class="pull-left term">Search Term:</p>
 <input autocomplete="off" name="keyword" type="search"/>
@@ -499,15 +499,15 @@
 <option value="en">English</option>
 <option value="foreign">Foreign</option>
 <option selected="selected" value="all">All</option>
-<option value="fr">French (2913)</option>
-<option value="ja">Japanese (2593)</option>
-<option value="es">Spanish (1597)</option>
-<option value="it">Italian (1389)</option>
+<option value="fr">French (2916)</option>
+<option value="ja">Japanese (2595)</option>
+<option value="es">Spanish (1598)</option>
+<option value="it">Italian (1390)</option>
 <option value="de">German (1128)</option>
 <option value="zh">Chinese (989)</option>
-<option value="ko">Korean (868)</option>
-<option value="cn">Cantonese (765)</option>
-<option value="hi">Hindi (690)</option>
+<option value="ko">Korean (869)</option>
+<option value="cn">Cantonese (766)</option>
+<option value="hi">Hindi (692)</option>
 <option value="sv">Swedish (407)</option>
 <option value="ru">Russian (389)</option>
 <option value="pt">Portuguese (384)</option>
@@ -517,8 +517,8 @@
 <option value="th">Thai (224)</option>
 <option value="tr">Turkish (217)</option>
 <option value="da">Danish (215)</option>
+<option value="ar">Arabic (150)</option>
 <option value="no">Norwegian (150)</option>
-<option value="ar">Arabic (149)</option>
 <option value="ta">Tamil (149)</option>
 <option value="id">Indonesian (146)</option>
 <option value="fi">Finnish (132)</option>
@@ -535,7 +535,7 @@
 <option value="ml">Malayalam (49)</option>
 <option value="pa">Punjabi (48)</option>
 <option value="ms">Malay (34)</option>
-<option value="bn">Bangla (29)</option>
+<option value="bn">Bangla (30)</option>
 <option value="ca">Catalan (26)</option>
 <option value="is">Icelandic (22)</option>
 <option value="ur">Urdu (20)</option>
@@ -670,7 +670,7 @@
 <img alt="Love Lies Bleeding (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/love_lies_bleeding_2024/medium-cover.jpg" width="170"/>
 <figcaption class="hidden-xs hidden-sm">
 <span class="icon-star"></span>
-<h4 class="rating">7.3 / 10</h4> <h4>Action</h4>
+<h4 class="rating">7 / 10</h4> <h4>Action</h4>
 <h4>Adventure</h4>
 <span class="button-green-download2-big">View Details</span>
 </figcaption>
@@ -682,29 +682,12 @@
 </div>
 </div>
 <div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
-<a class="browse-movie-link" href="https://yts.mx/movies/monkey-man-2024">
-<figure>
-<img alt="Monkey Man (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/monkey_man_2024/medium-cover.jpg" width="170"/>
-<figcaption class="hidden-xs hidden-sm">
-<span class="icon-star"></span>
-<h4 class="rating">7.2 / 10</h4> <h4>Action</h4>
-<h4>Thriller</h4>
-<span class="button-green-download2-big">View Details</span>
-</figcaption>
-</figure>
-</a>
-<div class="browse-movie-bottom">
-<a class="browse-movie-title" href="https://yts.mx/movies/monkey-man-2024">Monkey Man</a>
-<div class="browse-movie-year">2024</div>
-</div>
-</div>
-<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
 <a class="browse-movie-link" href="https://yts.mx/movies/arthur-the-king-2024">
 <figure>
 <img alt="Arthur the King (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/arthur_the_king_2024/medium-cover.jpg" width="170"/>
 <figcaption class="hidden-xs hidden-sm">
 <span class="icon-star"></span>
-<h4 class="rating">7.1 / 10</h4> <h4>Adventure</h4>
+<h4 class="rating">7 / 10</h4> <h4>Adventure</h4>
 <h4>Drama</h4>
 <span class="button-green-download2-big">View Details</span>
 </figcaption>
@@ -716,53 +699,36 @@
 </div>
 </div>
 <div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
-<a class="browse-movie-link" href="https://yts.mx/movies/problemista-2023">
+<a class="browse-movie-link" href="https://yts.mx/movies/infested-2023">
 <figure>
-<img alt="Problemista (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/problemista_2023/medium-cover.jpg" width="170"/>
+<img alt="Infested (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/infested_2023/medium-cover.jpg" width="170"/>
 <figcaption class="hidden-xs hidden-sm">
 <span class="icon-star"></span>
-<h4 class="rating">7.1 / 10</h4> <h4>Comedy</h4>
+<h4 class="rating">6.7 / 10</h4> <h4>Horror</h4>
 <span class="button-green-download2-big">View Details</span>
 </figcaption>
 </figure>
 </a>
 <div class="browse-movie-bottom">
-<a class="browse-movie-title" href="https://yts.mx/movies/problemista-2023">Problemista</a>
+<a class="browse-movie-title" href="https://yts.mx/movies/infested-2023"><span style="color: #ACD7DE; font-size: 75%;">[FR]</span> Infested</a>
 <div class="browse-movie-year">2023</div>
 </div>
 </div>
 <div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
-<a class="browse-movie-link" href="https://yts.mx/movies/rebel-moon-part-two-the-scargiver-2024">
+<a class="browse-movie-link" href="https://yts.mx/movies/monkey-man-2024">
 <figure>
-<img alt="Rebel Moon - Part Two: The Scargiver (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/rebel_moon_part_two_the_scargiver_2024/medium-cover.jpg" width="170"/>
+<img alt="Monkey Man (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/monkey_man_2024/medium-cover.jpg" width="170"/>
 <figcaption class="hidden-xs hidden-sm">
 <span class="icon-star"></span>
-<h4 class="rating">5.2 / 10</h4> <h4>Action</h4>
-<h4>Adventure</h4>
+<h4 class="rating">7.1 / 10</h4> <h4>Action</h4>
+<h4>Thriller</h4>
 <span class="button-green-download2-big">View Details</span>
 </figcaption>
 </figure>
 </a>
 <div class="browse-movie-bottom">
-<a class="browse-movie-title" href="https://yts.mx/movies/rebel-moon-part-two-the-scargiver-2024">Rebel Moon - Part Two: The Scargiver</a>
+<a class="browse-movie-title" href="https://yts.mx/movies/monkey-man-2024">Monkey Man</a>
 <div class="browse-movie-year">2024</div>
-</div>
-</div>
-<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
-<a class="browse-movie-link" href="https://yts.mx/movies/the-three-musketeers-part-ii-milady-2023">
-<figure>
-<img alt="The Three Musketeers - Part II: Milady (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/the_three_musketeers_part_ii_milady_2023/medium-cover.jpg" width="170"/>
-<figcaption class="hidden-xs hidden-sm">
-<span class="icon-star"></span>
-<h4 class="rating">6.5 / 10</h4> <h4>Action</h4>
-<h4>Adventure</h4>
-<span class="button-green-download2-big">View Details</span>
-</figcaption>
-</figure>
-</a>
-<div class="browse-movie-bottom">
-<a class="browse-movie-title" href="https://yts.mx/movies/the-three-musketeers-part-ii-milady-2023"><span style="color: #ACD7DE; font-size: 75%;">[FR]</span> The Three Musketeers - Part II: Milady</a>
-<div class="browse-movie-year">2023</div>
 </div>
 </div>
 <div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
@@ -780,6 +746,74 @@
 <div class="browse-movie-bottom">
 <a class="browse-movie-title" href="https://yts.mx/movies/the-old-oak-2023">The Old Oak</a>
 <div class="browse-movie-year">2023</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/the-mitchells-vs-the-machines-2021">
+<figure>
+<img alt="The Mitchells vs. the Machines (2021) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/the_mitchells_vs_the_machines_2021/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">7.6 / 10</h4> <h4>Action</h4>
+<h4>Adventure</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/the-mitchells-vs-the-machines-2021">The Mitchells vs. the Machines</a>
+<div class="browse-movie-year">2021</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/the-commuter-2018">
+<figure>
+<img alt="The Commuter (2018) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/the_commuter_2018/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">6.3 / 10</h4> <h4>Action</h4>
+<h4>Adventure</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/the-commuter-2018">The Commuter</a>
+<div class="browse-movie-year">2018</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/justice-league-crisis-on-infinite-earths-part-two-2024">
+<figure>
+<img alt="Justice League: Crisis on Infinite Earths - Part Two (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/justice_league_crisis_on_infinite_earths_part_two_2024/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">5.6 / 10</h4> <h4>Action</h4>
+<h4>Adventure</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/justice-league-crisis-on-infinite-earths-part-two-2024">Justice League: Crisis on Infinite Earths - Part Two</a>
+<div class="browse-movie-year">2024</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/alice-through-the-looking-glass-2016">
+<figure>
+<img alt="Alice Through the Looking Glass (2016) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/alice_through_the_looking_glass_2016/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">6.2 / 10</h4> <h4>Action</h4>
+<h4>Adventure</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/alice-through-the-looking-glass-2016">Alice Through the Looking Glass</a>
+<div class="browse-movie-year">2016</div>
 </div>
 </div>
 <div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
@@ -834,23 +868,6 @@
 </div>
 </div>
 <div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
-<a class="browse-movie-link" href="https://yts.mx/movies/justice-league-crisis-on-infinite-earths-part-two-2024">
-<figure>
-<img alt="Justice League: Crisis on Infinite Earths - Part Two (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/justice_league_crisis_on_infinite_earths_part_two_2024/medium-cover.jpg" width="170"/>
-<figcaption class="hidden-xs hidden-sm">
-<span class="icon-star"></span>
-<h4 class="rating">6.1 / 10</h4> <h4>Action</h4>
-<h4>Adventure</h4>
-<span class="button-green-download2-big">View Details</span>
-</figcaption>
-</figure>
-</a>
-<div class="browse-movie-bottom">
-<a class="browse-movie-title" href="https://yts.mx/movies/justice-league-crisis-on-infinite-earths-part-two-2024">Justice League: Crisis on Infinite Earths - Part Two</a>
-<div class="browse-movie-year">2024</div>
-</div>
-</div>
-<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
 <a class="browse-movie-link" href="https://yts.mx/movies/gods-of-egypt-2016">
 <figure>
 <img alt="Gods of Egypt (2016) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/gods_of_egypt_2016/medium-cover.jpg" width="170"/>
@@ -902,6 +919,23 @@
 </div>
 </div>
 <div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/problemista-2023">
+<figure>
+<img alt="Problemista (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/problemista_2023/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">7 / 10</h4> <h4>Action</h4>
+<h4>Comedy</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/problemista-2023">Problemista</a>
+<div class="browse-movie-year">2023</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
 <a class="browse-movie-link" href="https://yts.mx/movies/the-channel-2023">
 <figure>
 <img alt="The Channel (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/the_channel_2023/medium-cover.jpg" width="170"/>
@@ -919,12 +953,29 @@
 </div>
 </div>
 <div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/rebel-moon-part-two-the-scargiver-2024">
+<figure>
+<img alt="Rebel Moon - Part Two: The Scargiver (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/rebel_moon_part_two_the_scargiver_2024/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">5.2 / 10</h4> <h4>Action</h4>
+<h4>Adventure</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/rebel-moon-part-two-the-scargiver-2024">Rebel Moon - Part Two: The Scargiver</a>
+<div class="browse-movie-year">2024</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
 <a class="browse-movie-link" href="https://yts.mx/movies/late-night-with-the-devil-2023">
 <figure>
 <img alt="Late Night with the Devil (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/late_night_with_the_devil_2023/medium-cover.jpg" width="170"/>
 <figcaption class="hidden-xs hidden-sm">
 <span class="icon-star"></span>
-<h4 class="rating">7.2 / 10</h4> <h4>Horror</h4>
+<h4 class="rating">7.1 / 10</h4> <h4>Horror</h4>
 <span class="button-green-download2-big">View Details</span>
 </figcaption>
 </figure>
@@ -940,8 +991,8 @@
 <img alt="One Life (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/one_life_2023/medium-cover.jpg" width="170"/>
 <figcaption class="hidden-xs hidden-sm">
 <span class="icon-star"></span>
-<h4 class="rating">7.6 / 10</h4> <h4>Biography</h4>
-<h4>Drama</h4>
+<h4 class="rating">7.6 / 10</h4> <h4>Action</h4>
+<h4>Biography</h4>
 <span class="button-green-download2-big">View Details</span>
 </figcaption>
 </figure>
@@ -949,56 +1000,6 @@
 <div class="browse-movie-bottom">
 <a class="browse-movie-title" href="https://yts.mx/movies/one-life-2023">One Life</a>
 <div class="browse-movie-year">2023</div>
-</div>
-</div>
-<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
-<a class="browse-movie-link" href="https://yts.mx/movies/immaculate-2024">
-<figure>
-<img alt="Immaculate (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/immaculate_2024/medium-cover.jpg" width="170"/>
-<figcaption class="hidden-xs hidden-sm">
-<span class="icon-star"></span>
-<h4 class="rating">6 / 10</h4> <h4>Horror</h4>
-<span class="button-green-download2-big">View Details</span>
-</figcaption>
-</figure>
-</a>
-<div class="browse-movie-bottom">
-<a class="browse-movie-title" href="https://yts.mx/movies/immaculate-2024">Immaculate</a>
-<div class="browse-movie-year">2024</div>
-</div>
-</div>
-<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
-<a class="browse-movie-link" href="https://yts.mx/movies/the-bricklayer-2023">
-<figure>
-<img alt="The Bricklayer (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/the_bricklayer_2023/medium-cover.jpg" width="170"/>
-<figcaption class="hidden-xs hidden-sm">
-<span class="icon-star"></span>
-<h4 class="rating">5.1 / 10</h4> <h4>Action</h4>
-<h4>Thriller</h4>
-<span class="button-green-download2-big">View Details</span>
-</figcaption>
-</figure>
-</a>
-<div class="browse-movie-bottom">
-<a class="browse-movie-title" href="https://yts.mx/movies/the-bricklayer-2023">The Bricklayer</a>
-<div class="browse-movie-year">2023</div>
-</div>
-</div>
-<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
-<a class="browse-movie-link" href="https://yts.mx/movies/dune-part-two-2024">
-<figure>
-<img alt="Dune: Part Two (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/dune_part_two_2024/medium-cover.jpg" width="170"/>
-<figcaption class="hidden-xs hidden-sm">
-<span class="icon-star"></span>
-<h4 class="rating">8.7 / 10</h4> <h4>Action</h4>
-<h4>Adventure</h4>
-<span class="button-green-download2-big">View Details</span>
-</figcaption>
-</figure>
-</a>
-<div class="browse-movie-bottom">
-<a class="browse-movie-title" href="https://yts.mx/movies/dune-part-two-2024">Dune: Part Two</a>
-<div class="browse-movie-year">2024</div>
 </div>
 </div>
 </div>
@@ -1072,5 +1073,5 @@
 <script type="text/javascript">    !function(){let t=JSON.parse(atob("eyJ6aWQiOiI1NjU1MzEwIiwiYWMiOnsiYWRzZXJ2ZXJEb21haW4iOiJsYXlsbXR5LmNvbSIsInNlbFBhdGgiOiJcL2QzLnBocCIsImFkYlZlcnNpb24iOiIyIiwic3V2NSI6eyJjZG5QYXRoIjoiXC9zY3JpcHRcL3h4QUcxLmpzIiwic2VsUGF0aCI6IlwvZDMucGhwIiwic2VsQWRUeXBlUGFyYW0iOiJtPXN1djUifSwiaXBwZyI6eyJjZG5QYXRoIjoiXC9zY3JpcHRcL21haW5fc2NyaXB0XzEyMy5qcyIsInNlbEFkVHlwZVBhcmFtIjoibT1pcHBnIn0sImF0YWciOnsiY2RuUGF0aCI6Ilwvc2NyaXB0XC9pbmRleF9hYmNfOTkuanMiLCJzZWxBZFR5cGVQYXJhbSI6Im09YXRnIn0sImF0YWd2MiI6eyJjZG5QYXRoIjoiXC9zY3JpcHRcL2F0Z3YyLmpzIn0sImludHJmIjp7InNlbEFkVHlwZVBhcmFtIjoibT1pbnRyZiJ9LCJpbnRybyI6eyJzZWxBZFR5cGVQYXJhbSI6Im09aW50cm8ifSwiaW50cm4iOnsiY2RuUGF0aCI6Ilwvc2NyaXB0XC9pbnRybi5qcyIsInNlbEFkVHlwZVBhcmFtIjoibT1pbnRybiJ9LCJ1dCI6eyJjZG5QYXRoIjoiXC9zY3JpcHRcL3V0LmpzIn0sImNkbkRvbWFpbiI6InZlZXFsbHkuY29tIiwiYWRjYXNoTGliIjp7ImNkblBhdGgiOiJcL3NjcmlwdFwvbGlCMi5qcyJ9fSwicGEiOnsiZCI6NSwicnIiOjEwfX0=")),e=t.zid,n=t.ac,r=t.pa,a=localStorage.getItem("adcsh_dbg");a&&(a=JSON.parse(a));let i=(...t)=>{a&&console.log("[adbl-switch-suv4-to-suv5]",...t)};i("zone id:",e),i("adbl sttgs:",n),i("attr:",r);let o=function(){let t={zoneId:e,tagVersionSuffix:"-sw-adbl-suv5"},n=r["element-list"],a="allow"===r["element-action"],o=r["country-list"],s="allow"===r["country-action"];return n&&(t.targetElementsCssSelector=n,t.triggerOnTargetElementsClick=a),o&&(t.targetCountries=o.trim().split(","),t.triggerOnTargetCountries=s),i("pop settings generated:",t),t},s=function(){if(void 0!==document.head&&null!==document.head){let t=document.createElement("script");t.type="text/javascript",t.src="//"+n.cdnDomain+n.adcashLib.cdnPath,t.setAttribute("adblock-settings",JSON.stringify(n)),t.onload=function(){i("lib loaded. run pop"),aclib.runPop(o())},t.onerror=function(t){i("error:",t)},i("append script to head"),document.head.append(t);return}setTimeout(s,100)};s()}();
 
 </script>
-<script>(function(){if (!document.body) return;var js = "window['__CF$cv$params']={r:'87a0f779cf8fb196',t:'MTcxNDA3NTcyNC4wOTcwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+<script>(function(){if (!document.body) return;var js = "window['__CF$cv$params']={r:'87b900efcec58a6d',t:'MTcxNDMyNzc3MC4zMjYwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
 </html>

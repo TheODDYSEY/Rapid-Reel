@@ -99,3 +99,53 @@
 | 17 | Immaculate                                           | Horror    |      6   |   2024 |
 | 18 | The Bricklayer                                       | Action    |      5.1 |   2023 |
 | 19 | Dune: Part Two                                       | Action    |      8.7 |   2024 |
+## Date: 2024-04-28, 21:05:46, Sunday
+
+## DataFrame
+|    | Title                                                | Genre     |   Rating |   Year |
+|---:|:-----------------------------------------------------|:----------|---------:|-------:|
+|  0 | Love Lies Bleeding                                   | Action    |      7   |   2024 |
+|  1 | Arthur the King                                      | Adventure |      7   |   2024 |
+|  2 | [FR] Infested                                        | Horror    |      6.7 |   2023 |
+|  3 | Monkey Man                                           | Action    |      7.1 |   2024 |
+|  4 | The Old Oak                                          | Action    |      7.1 |   2023 |
+|  5 | The Mitchells vs. the Machines                       | Action    |      7.6 |   2021 |
+|  6 | The Commuter                                         | Action    |      6.3 |   2018 |
+|  7 | Justice League: Crisis on Infinite Earths - Part Two | Action    |      5.6 |   2024 |
+|  8 | Alice Through the Looking Glass                      | Action    |      6.2 |   2016 |
+|  9 | The Little Things                                    | Action    |      6.3 |   2021 |
+| 10 | Good Burger 2                                        | Action    |      5.3 |   2023 |
+| 11 | The Pod Generation                                   | Action    |      5.6 |   2023 |
+| 12 | Gods of Egypt                                        | Action    |      5.4 |   2016 |
+| 13 | Mean Girls                                           | Comedy    |      5.7 |   2024 |
+| 14 | Drive-Away Dolls                                     | Action    |      5.5 |   2024 |
+| 15 | Problemista                                          | Action    |      7   |   2023 |
+| 16 | The Channel                                          | Action    |      5.6 |   2023 |
+| 17 | Rebel Moon - Part Two: The Scargiver                 | Action    |      5.2 |   2024 |
+| 18 | Late Night with the Devil                            | Horror    |      7.1 |   2023 |
+| 19 | One Life                                             | Action    |      7.6 |   2023 |
+## Date: 2024-04-28, 21:09:31, Sunday
+
+## DataFrame
+|    | Title                                                | Genre     |   Rating |   Year |
+|---:|:-----------------------------------------------------|:----------|---------:|-------:|
+|  0 | Love Lies Bleeding                                   | Action    |      7   |   2024 |
+|  1 | Arthur the King                                      | Adventure |      7   |   2024 |
+|  2 | [FR] Infested                                        | Horror    |      6.7 |   2023 |
+|  3 | Monkey Man                                           | Action    |      7.1 |   2024 |
+|  4 | The Old Oak                                          | Action    |      7.1 |   2023 |
+|  5 | The Mitchells vs. the Machines                       | Action    |      7.6 |   2021 |
+|  6 | The Commuter                                         | Action    |      6.3 |   2018 |
+|  7 | Justice League: Crisis on Infinite Earths - Part Two | Action    |      5.6 |   2024 |
+|  8 | Alice Through the Looking Glass                      | Action    |      6.2 |   2016 |
+|  9 | The Little Things                                    | Action    |      6.3 |   2021 |
+| 10 | Good Burger 2                                        | Action    |      5.3 |   2023 |
+| 11 | The Pod Generation                                   | Action    |      5.6 |   2023 |
+| 12 | Gods of Egypt                                        | Action    |      5.4 |   2016 |
+| 13 | Mean Girls                                           | Comedy    |      5.7 |   2024 |
+| 14 | Drive-Away Dolls                                     | Action    |      5.5 |   2024 |
+| 15 | Problemista                                          | Action    |      7   |   2023 |
+| 16 | The Channel                                          | Action    |      5.6 |   2023 |
+| 17 | Rebel Moon - Part Two: The Scargiver                 | Action    |      5.2 |   2024 |
+| 18 | Late Night with the Devil                            | Horror    |      7.1 |   2023 |
+| 19 | One Life                                             | Action    |      7.6 |   2023 |
