@@ -1,36 +1,32 @@
-name: YTS Movie Notifyer
+name: YTS Movie Scraper
+
 on:
   schedule:
-    - cron: '0 3 * * *'  # This will run every day at 6 AM UTC
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-  workflow_dispatch:
-
-permissions: write-all
+    - cron: '0 3 * * *'  # This will run every day at 6 AM UTC, which is 3 AM EAT
 
 jobs:
-  build:
+  scrape_movies:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          lfs: true
-      - name: Setup CML
-        uses: iterative/setup-cml@v2
-      - name: Install Python dependencies
+          python-version: '3.x'
+
+      - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install -r requirements.txt
-      - name: Run code
-        run: python yts-scraper.py  # Replace with your Python script
+          pip install requests beautifulsoup4 pandas
+
+      - name: Run Python script
+        run: python your_script_name.py  # Replace with the name of your Python script
+
       - name: Display Excel File
         run: |
           python -c "
           import pandas as pd
           df = pd.read_excel('output.xlsx')
           print(df.to_markdown())" >> report.md
-      - name: Post report
-        run: cml comment create report.md
