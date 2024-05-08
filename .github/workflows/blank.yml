@@ -22,10 +22,15 @@ jobs:
           pip install --upgrade pip
           pip install requests beautifulsoup4 pandas openpyxl tabulate  # Include openpyxl here
 
+      - name: Install CML
+        run: |
+          curl -L https://github.com/iterative/cml/releases/latest/download/install.sh | bash
+          source $HOME/.bashrc
+
       - name: Run Python script
         run: python yts-scraper.py  # Replace with the name of your Python script
 
-      - name: Display Excel File
+      - name: Display Excel File and Post Report
         env:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -33,7 +38,4 @@ jobs:
           import pandas as pd
           df = pd.read_excel('output.xlsx')
           print(df.to_markdown())" >> report.md
-
           cml comment create report.md
-
-          
