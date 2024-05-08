@@ -31,18 +31,13 @@ jobs:
           pip install --upgrade pip && pip install -r requirements.txt # Include openpyxl here
       - name: Run Python script
         run: python yts-scraper.py  # Replace with the name of your Python script
-        
+
       - name: Display Excel File and Post Report
         env:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python -c "
           import pandas as pd
-          import datetime
           df = pd.read_excel('output.xlsx')
-          now = datetime.datetime.now()
-          date_time_day = now.strftime('%Y-%m-%d')
-          report_file = 'report_' + date_time_day + '.md'
-          with open(report_file, 'w') as f:
-              f.write(df.to_markdown())"
-          cml comment create report_file
+          print(df.to_markdown())" >> report.md
+          cml comment create report.md
