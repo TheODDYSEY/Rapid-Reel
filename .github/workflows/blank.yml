@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install requests beautifulsoup4 pandas
+          pip install requests beautifulsoup4 pandas openpyxl  # Include openpyxl here
 
       - name: Run Python script
         run: python yts-scraper.py  # Replace with the name of your Python script
