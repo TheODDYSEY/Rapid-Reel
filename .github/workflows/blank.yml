@@ -3,7 +3,7 @@ name: YTS Movie Scraper
 on:
   schedule:
     - cron: '0 3 * * *'  # This will run every day at 6 AM UTC, which is 3 AM EAT
-    workflow_dispatch: 
+  workflow_dispatch: 
 
 jobs:
     build:
@@ -20,7 +20,7 @@ jobs:
               pip install --upgrade pip
               pip install -r requirements.txt
           - name: Run code
-            run: python code.ipynb  
+            run: python yts-scraper.py  
           - name: Display Excel File
             run: |
               python -c "
