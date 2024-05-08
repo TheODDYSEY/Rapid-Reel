@@ -1,32 +1,34 @@
 name: YTS Movie Scraper
 
 on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
   schedule:
     - cron: '0 3 * * *'  # This will run every day at 6 AM UTC, which is 3 AM EAT
   workflow_dispatch:
+
+permissions: write-all
   
 jobs:
   scrape_movies:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+        with:
+          lfs: true
 
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
-
+      - uses: iterative/setup-cml@v2
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install requests beautifulsoup4 pandas openpyxl tabulate  # Include openpyxl here
-
-      - name: Install CML
-        run: |
-          curl -L https://github.com/iterative/cml/releases/latest/download/install.sh | bash
-          source $HOME/.bashrc
-
+          pip install --upgrade pip && pip install -r requirements.txt # Include openpyxl here
       - name: Run Python script
         run: python yts-scraper.py  # Replace with the name of your Python script
 
