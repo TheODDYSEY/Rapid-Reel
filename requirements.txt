@@ -3,3 +3,5 @@ requests
 bs4
 openpyxl
 tabulate
+matplotlib
+streamlit
