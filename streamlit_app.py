@@ -65,7 +65,7 @@ if st.button('Scrape Data'):
     col2.subheader('Statistics')
     col2.write(f'Number of movies scraped: {df.shape[0]}')
     col2.write(f'Top rated movie: {df.loc[df['Rating'].idxmax()]["Title"]}')
-    col2.write(f'Lowest rated movie: {df.loc[df['Rating'].idxmin()]["Title"]}')
+    col2.write(f"Top rated movie: {df.loc[df['Rating'].idxmax()]['Title']}")
     st.subheader('Rating Distribution')
     st.bar_chart(df['Rating'].value_counts())
 
