@@ -149,3 +149,778 @@
 | 17 | Rebel Moon - Part Two: The Scargiver                 | Action    |      5.2 |   2024 |
 | 18 | Late Night with the Devil                            | Horror    |      7.1 |   2023 |
 | 19 | One Life                                             | Action    |      7.6 |   2023 |
+## Date: 2024-05-22, 12:50:08, Wednesday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | Challengers                                          | Action  |      7.5 |   2024 |
+|  1 | The Fall Guy                                         | Action  |      7.3 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.7 |   2023 |
+|  3 | Mother of the Bride                                  | Action  |      4.9 |   2024 |
+|  4 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  5 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  6 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.4 |   2024 |
+| 13 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 14 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 15 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 16 | The Hill                                             | Action  |      6.7 |   2023 |
+| 17 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 18 | Stopmotion                                           | Action  |      5.5 |   2023 |
+| 19 | [ES] Through My Window: Looking at You               | Action  |      5.4 |   2024 |
+## Date: 2024-05-24, 09:04:48, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:07:03, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:08:25, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:09:00, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:10:30, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:14:46, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:15:32, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:18:23, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:18:59, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:19:45, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:20:55, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:22:11, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:24:22, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:31:30, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:31:53, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:32:04, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:34:38, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:34:48, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:34:57, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:46:10, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:46:11, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:46:27, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:50:23, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:51:49, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:52:04, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:52:13, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:57:20, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:59:23, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 09:59:48, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-05-24, 10:05:58, Friday
+
+## DataFrame
+|    | Title                                                | Genre   |   Rating |   Year |
+|---:|:-----------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Fall Guy                                         | Action  |      7.2 |   2024 |
+|  1 | Mother of the Bride                                  | Action  |      4.8 |   2024 |
+|  2 | Boy Kills World                                      | Action  |      6.6 |   2023 |
+|  3 | Mothers' Instinct                                    | Action  |      6.3 |   2024 |
+|  4 | Force of Nature: The Dry 2                           | Crime   |      6   |   2024 |
+|  5 | [ES] The Courier                                     | Crime   |      6   |   2024 |
+|  6 | Child's Play                                         | Action  |      6.7 |   1988 |
+|  7 | The Last Stop in Yuma County                         | Action  |      7   |   2023 |
+|  8 | Please Don't Destroy: The Treasure of Foggy Mountain | Action  |      6.1 |   2023 |
+|  9 | [ML] Manjummel Boys                                  | Action  |      8.4 |   2024 |
+| 10 | Dune: Part Two                                       | Action  |      8.6 |   2024 |
+| 11 | Turtles All the Way Down                             | Action  |      6.7 |   2024 |
+| 12 | Flynn                                                | Action  |      4.5 |   2024 |
+| 13 | The Idea of You                                      | Action  |      6.4 |   2024 |
+| 14 | Unfrosted                                            | Action  |      5.5 |   2024 |
+| 15 | One Bad Apple: A Hannah Swensen Mystery              | Action  |      6.5 |   2024 |
+| 16 | [TR] About Dry Grasses                               | Action  |      7.8 |   2023 |
+| 17 | The Hill                                             | Action  |      6.7 |   2023 |
+| 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
+| 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
