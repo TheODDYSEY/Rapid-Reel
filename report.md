@@ -924,3 +924,53 @@
 | 17 | The Hill                                             | Action  |      6.7 |   2023 |
 | 18 | Out of Darkness                                      | Horror  |      5.5 |   2022 |
 | 19 | [LT] Slow                                            | Action  |      7.2 |   2023 |
+## Date: 2024-09-04, 13:26:19, Wednesday
+
+## DataFrame
+|    | Title                                  | Genre   |   Rating |   Year |
+|---:|:---------------------------------------|:--------|---------:|-------:|
+|  0 | Borderlands                            | Action  |      4.4 |   2024 |
+|  1 | Trap                                   | Crime   |      6   |   2024 |
+|  2 | The Deliverance                        | Horror  |      5.1 |   2024 |
+|  3 | The Heiress and the Handyman           | Romance |      4.2 |   2024 |
+|  4 | Sister Wife Murder                     | Crime   |      6.7 |   2024 |
+|  5 | Toby Keith: American Icon              | Music   |      7.2 |   2024 |
+|  6 | [TE] Kalki 2898 AD                     | Action  |      7.2 |   2024 |
+|  7 | The Supremes at Earl's All-You-Can-Eat | Comedy  |      6.4 |   2024 |
+|  8 | The Supremes at Earl's All-You-Can-Eat | Comedy  |      6.4 |   2024 |
+|  9 | Doctor Jekyll                          | Drama   |      4.7 |   2023 |
+| 10 | [GU] Trisha on the Rocks               | Comedy  |      5.4 |   2024 |
+| 11 | [ZH] 18×2 Beyond Youthful Days         | Drama   |      7.2 |   2024 |
+| 12 | High Noon                              | Action  |      7.9 |   1952 |
+| 13 | WarGames                               | Action  |      7.1 |   1983 |
+| 14 | The Wolfman                            | Action  |      5.8 |   2010 |
+| 15 | Blue Velvet                            | Action  |      7.7 |   1986 |
+| 16 | Species II                             | Action  |      4.5 |   1998 |
+| 17 | Kindergarten Cop                       | Action  |      6.2 |   1990 |
+| 18 | [FR] Mayhem!                           | Action  |      6.3 |   2023 |
+| 19 | A Christmas Story                      | Action  |      7.9 |   1983 |
+## Date: 2024-09-04, 13:44:07, Wednesday
+
+## DataFrame
+|    | Title                                  | Genre   |   Rating |   Year |
+|---:|:---------------------------------------|:--------|---------:|-------:|
+|  0 | Borderlands                            | Action  |      4.4 |   2024 |
+|  1 | Trap                                   | Crime   |      6   |   2024 |
+|  2 | The Deliverance                        | Horror  |      5.1 |   2024 |
+|  3 | The Heiress and the Handyman           | Romance |      4.2 |   2024 |
+|  4 | Sister Wife Murder                     | Crime   |      6.7 |   2024 |
+|  5 | Toby Keith: American Icon              | Music   |      7.2 |   2024 |
+|  6 | [TE] Kalki 2898 AD                     | Action  |      7.2 |   2024 |
+|  7 | The Supremes at Earl's All-You-Can-Eat | Comedy  |      6.4 |   2024 |
+|  8 | The Supremes at Earl's All-You-Can-Eat | Comedy  |      6.4 |   2024 |
+|  9 | Doctor Jekyll                          | Drama   |      4.7 |   2023 |
+| 10 | [GU] Trisha on the Rocks               | Comedy  |      5.4 |   2024 |
+| 11 | [ZH] 18×2 Beyond Youthful Days         | Drama   |      7.2 |   2024 |
+| 12 | High Noon                              | Action  |      7.9 |   1952 |
+| 13 | WarGames                               | Action  |      7.1 |   1983 |
+| 14 | The Wolfman                            | Action  |      5.8 |   2010 |
+| 15 | Blue Velvet                            | Action  |      7.7 |   1986 |
+| 16 | Species II                             | Action  |      4.5 |   1998 |
+| 17 | Kindergarten Cop                       | Action  |      6.2 |   1990 |
+| 18 | [FR] Mayhem!                           | Action  |      6.3 |   2023 |
+| 19 | A Christmas Story                      | Action  |      7.9 |   1983 |
