@@ -1,75 +1,40 @@
 import streamlit as st
-import requests
-from bs4 import BeautifulSoup
+from fastapi import FastAPI, Request
+from pydantic import BaseModel
+import uvicorn
+from threading import Thread
 import pandas as pd
-import matplotlib.pyplot as plt
-import datetime 
+from io import StringIO
 
+# Initialize FastAPI app
+api = FastAPI()
 
-def scrape_data():
-    # Define the URL
-    url = "https://yts.mx/browse-movies/0/all/all/0/featured/0/all"
-    response = requests.get(url)
+# Define a Pydantic model to validate incoming data
+class MovieData(BaseModel):
+    data: str  # Expected to be a CSV-like string
 
-    # Parse the HTML content of the response using BeautifulSoup
-    soup = BeautifulSoup(response.text, 'html.parser')
+# Function to run FastAPI server
+def run_server():
+    uvicorn.run(api, host="0.0.0.0", port=8000)
 
-    # Extract movie data from the parsed HTML and store it in a list
-    movies_data = []
-    for movie in soup.find_all('div', class_='browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4'):
-        Title = movie.find('a', class_='browse-movie-title').text
-        Genre = movie.find_all('h4')[1].text
-        Rating = movie.find('h4', class_='rating').text.split(' / ')[0]
-        Year = movie.find('div', class_='browse-movie-year').text
-        movies_data.append([Title, Genre, Rating, Year])
+# Create a background thread to run FastAPI
+thread = Thread(target=run_server)
+thread.start()
 
-    # Create a Pandas DataFrame from the extracted movie data
-    df = pd.DataFrame(movies_data, columns=['Title', 'Genre', 'Rating', 'Year'])    
+# Define the FastAPI endpoint to accept POST requests
+@api.post("/upload-data/")
+async def upload_data(request: Request, movie_data: MovieData):
+    csv_data = StringIO(movie_data.data)
+    df = pd.read_csv(csv_data)
+    st.session_state['data'] = df  # Store data in Streamlit session state
+    return {"status": "Data received successfully!"}
 
-    # Save to excel file 
-    df.to_excel('output.xlsx', index=False)
-
-    # Get the current date, time, and day
-    now = datetime.datetime.now()
-    date_time_day = now.strftime("%Y-%m-%d, %H:%M:%S, %A")
-
-    # Convert the DataFrame to a markdown table
-    markdown_table = df.to_markdown()
-
-    # Write the date, time, day, and markdown table to the report.md file
-    with open('report.md', 'a') as f:
-        f.write(f'\n## Date: {date_time_day}\n')
-        f.write('\n## DataFrame\n')
-        f.write(markdown_table)
-
-    return df
-
-
+# Streamlit UI
 st.title('YTS Movie Scraper')
-st.write('Welcome to the YTS Movie Scraper. Click the button below to scrape the latest movies from YTS.')
+st.write('The scraped movie data will be displayed here.')
 
-
-if st.button('Scrape Data'):
-    df = scrape_data()
-    st.success('Scraping completed!')
-
-    # Create two columns
-    col1, col2 = st.columns(2)
-
-    # Display the scraped data in the first column
-    col1.subheader('Movie Data')
-    col1.dataframe(df.style.highlight_max())
-
-
-# Display the statistics in the second column
-    col2.subheader('Statistics')
-    col2.write(f'Number of movies scraped: {df.shape[0]}')
-    col2.write(f'Top rated movie: {df.loc[df['Rating'].idxmax()]["Title"]}')
-    col2.write(f"Top rated movie: {df.loc[df['Rating'].idxmax()]['Title']}")
-    st.subheader('Rating Distribution')
-    st.bar_chart(df['Rating'].value_counts())
-
-    st.subheader('Genre Distribution')
-    genre_counts = df['Genre'].value_counts()
-    st.bar_chart(genre_counts)
-    
+# Display the data if available
+if 'data' in st.session_state:
+    st.dataframe(st.session_state['data'])
+else:
+    st.write("No data received yet.")

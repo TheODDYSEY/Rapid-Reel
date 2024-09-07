@@ -1,0 +1,51 @@
+name: YTS Movie Scraper
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  schedule:
+    - cron: '0 3 * * *'  # This will run every day at 6 AM UTC, which is 3 AM EAT
+  workflow_dispatch:
+
+permissions: write-all
+  
+jobs:
+  scrape_movies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          lfs: true
+
+      - name: Set up Docker
+        uses: addnab/docker-run-action@v3
+        with:
+          image: python:3.9-slim  # Use a slim Python Docker image
+          options: --workdir /github/workspace  # Set the working directory
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Python script
+        run: python yts-scraper.py
+
+      - name: Send Data to Streamlit App
+        env:
+          STREAMLIT_APP_URL: ${{ secrets.STREAMLIT_APP_URL }}  # Set your Streamlit app URL as a secret
+        run: |
+          # Convert the scraped data to CSV format
+          python -c "
+          import pandas as pd
+          df = pd.read_excel('output.xlsx')
+          df.to_csv('output.csv', index=False)
+          "
+
+          # Send CSV data to Streamlit app
+          curl -X POST "$STREAMLIT_APP_URL/upload-data/" \
+            -H "Content-Type: application/json" \
+            -d "{\"data\": \"$(cat output.csv | tr -d '\n')\"}"
