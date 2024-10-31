@@ -6,3 +6,4 @@ matplotlib
 SQLAlchemy
 psycopg2-binary
 openpyxl
+tabulate
