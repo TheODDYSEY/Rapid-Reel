@@ -974,3 +974,28 @@
 | 17 | Kindergarten Cop                       | Action  |      6.2 |   1990 |
 | 18 | [FR] Mayhem!                           | Action  |      6.3 |   2023 |
 | 19 | A Christmas Story                      | Action  |      7.9 |   1983 |
+## Date: 2024-10-31, 10:08:10, Thursday
+
+## DataFrame
+|    | Title                             | Genre       |   Rating |   Year |
+|---:|:----------------------------------|:------------|---------:|-------:|
+|  0 | Don't Move                        | Horror      |      5.9 |   2024 |
+|  1 | Joker: Folie à Deux               | Crime       |      5.3 |   2024 |
+|  2 | Terrifier 3                       | Horror      |      6.7 |   2024 |
+|  3 | Am I Racist?                      | Comedy      |      7   |   2024 |
+|  4 | [FR] Family Pack                  | Adventure   |      5.4 |   2024 |
+|  5 | Transformers One                  | Action      |      7.7 |   2024 |
+|  6 | Carved                            | Comedy      |      4.4 |   2024 |
+|  7 | Bagman                            | Horror      |      4.6 |   2024 |
+|  8 | Die Alone                         | Horror      |      5.7 |   2024 |
+|  9 | Sweet Bobby: My Catfish Nightmare | Documentary |      6.2 |   2024 |
+| 10 | Death Becomes Her                 | Action      |      6.7 |   1992 |
+| 11 | Armageddon Time                   | Action      |      6.5 |   2022 |
+| 12 | Cowboys & Aliens                  | Action      |      6   |   2011 |
+| 13 | Oddity                            | Horror      |      6.7 |   2024 |
+| 14 | Cuckoo                            | Horror      |      5.8 |   2024 |
+| 15 | Friday the 13th                   | Action      |      5.5 |   2009 |
+| 16 | Slingshot                         | Sci-Fi      |      5.7 |   2024 |
+| 17 | A Nightmare on Elm Street         | Action      |      7.4 |   1984 |
+| 18 | You're Next                       | Action      |      6.6 |   2011 |
+| 19 | Night Train                       | Action      |      3.7 |   2023 |
