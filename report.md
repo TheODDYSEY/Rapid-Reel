@@ -999,3 +999,28 @@
 | 17 | A Nightmare on Elm Street         | Action      |      7.4 |   1984 |
 | 18 | You're Next                       | Action      |      6.6 |   2011 |
 | 19 | Night Train                       | Action      |      3.7 |   2023 |
+## Date: 2024-12-14, 22:11:36, Saturday
+
+## DataFrame
+|    | Title                                    | Genre     |   Rating |   Year |
+|---:|:-----------------------------------------|:----------|---------:|-------:|
+|  0 | Mary                                     | Action    |      5.2 |   2024 |
+|  1 | Red One                                  | Action    |      6.7 |   2024 |
+|  2 | Heretic                                  | Horror    |      7.1 |   2024 |
+|  3 | Venom: The Last Dance                    | Action    |      6.1 |   2024 |
+|  4 | [TA] Thangalaan                          | Action    |      6.9 |   2024 |
+|  5 | The Best Christmas Pageant Ever          | Adventure |      7   |   2024 |
+|  6 | Juror #2                                 | Crime     |      7.1 |   2024 |
+|  7 | That Christmas                           | Adventure |      6.8 |   2024 |
+|  8 | Holiday Touchdown: A Chiefs Love Story   | Comedy    |      6.4 |   2024 |
+|  9 | [HI] Sikandar Ka Muqaddar                | Action    |      6.1 |   2024 |
+| 10 | [TE] Lucky Baskhar                       | Crime     |      8.1 |   2024 |
+| 11 | [FR] The Seed of the Sacred Fig          | Crime     |      7.6 |   2024 |
+| 12 | The Convert                              | Action    |      6.4 |   2023 |
+| 13 | [KO] Project Silence                     | Action    |      5.5 |   2023 |
+| 14 | David Attenborough: A Life on Our Planet | Action    |      8.9 |   2020 |
+| 15 | The Substance                            | Drama     |      7.4 |   2024 |
+| 16 | [HI] Jigra                               | Action    |      6.4 |   2024 |
+| 17 | [FR] Cat and Dog                         | Action    |      5.2 |   2024 |
+| 18 | Conclave                                 | Drama     |      7.4 |   2024 |
+| 19 | Freud's Last Session                     | Action    |      6.1 |   2023 |
