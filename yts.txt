@@ -89,7 +89,7 @@
 <div class="modal-content">
 <div class="modal-login-content">
 <form accept-charset="UTF-8" action="https://yts.mx/" autocapitalize="off" autocorrect="off" method="POST" spellcheck="off">
-<input name="_token" type="hidden" value="a565b5e0957d011e40f6d844d02a4a286aeabdffc95675cb96f09e0b4403a7c8"/>
+<input name="_token" type="hidden" value="bf96b331c4beb57c438d7ac45b0a52eaed64ddb8851dfb325f4ae7575620c49e"/>
 <span class="error-msg"></span>
 <div class="inner-addon">
 <span class="glyphicon glyphicon-user"></span>
@@ -107,7 +107,7 @@
 </div>
 <div class="modal-register-content">
 <form accept-charset="UTF-8" action="https://yts.mx/" autocapitalize="off" autocomplete="off" autocorrect="off" method="POST" spellcheck="off">
-<input name="_token" type="hidden" value="a565b5e0957d011e40f6d844d02a4a286aeabdffc95675cb96f09e0b4403a7c8"/>
+<input name="_token" type="hidden" value="bf96b331c4beb57c438d7ac45b0a52eaed64ddb8851dfb325f4ae7575620c49e"/>
 <span class="error-msg"></span>
 <div class="inner-addon">
 <span class="glyphicon glyphicon-user"></span>
@@ -131,7 +131,7 @@
 </div>
 <div class="modal-forgotpass-content">
 <form accept-charset="UTF-8" action="https://yts.mx/" autocapitalize="off" autocomplete="off" autocorrect="off" method="POST" spellcheck="off">
-<input name="_token" type="hidden" value="a565b5e0957d011e40f6d844d02a4a286aeabdffc95675cb96f09e0b4403a7c8"/>
+<input name="_token" type="hidden" value="bf96b331c4beb57c438d7ac45b0a52eaed64ddb8851dfb325f4ae7575620c49e"/>
 <span class="error-msg"></span>
 <p class="info-msg"> If you have Forgotten your password, just type in your E-mail Address and YTS will send you a link to Reset Your Password. </p>
 <div class="inner-addon">
@@ -160,7 +160,7 @@
 <div class="main-content">
 <div class="hidden-md hidden-lg" id="mobile-search-input">
 <form accept-charset="UTF-8" action="https://yts.mx/search-movies" method="POST">
-<input name="_token" type="hidden" value="a565b5e0957d011e40f6d844d02a4a286aeabdffc95675cb96f09e0b4403a7c8"/>
+<input name="_token" type="hidden" value="bf96b331c4beb57c438d7ac45b0a52eaed64ddb8851dfb325f4ae7575620c49e"/>
 <div class="input-group container search-query">
 <input autocomplete="off" autocorrect="off" class="form-control" name="keyword" placeholder="Search for a movie…" type="search"/>
 <span class="input-group-btn"> <button class="btn btn-success" type="submit">Search</button> </span>
@@ -416,7 +416,7 @@
 <div class="content-dark hidden-sm hidden-xs" id="main-search">
 <div class="container">
 <form accept-charset="UTF-8" action="https://yts.mx/search-movies" method="post">
-<input name="_token" type="hidden" value="a565b5e0957d011e40f6d844d02a4a286aeabdffc95675cb96f09e0b4403a7c8"/>
+<input name="_token" type="hidden" value="bf96b331c4beb57c438d7ac45b0a52eaed64ddb8851dfb325f4ae7575620c49e"/>
 <div id="main-search-fields" style="width: 880px;">
 <p class="pull-left term">Search Term:</p>
 <input autocomplete="off" name="keyword" type="search"/>
@@ -1082,5 +1082,5 @@
                         zoneId: '5655310',
                 });
             </script>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8f8bef6e194c8a5f',t:'MTczNTMzMDAzMC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8f8bf103b8348a6b',t:'MTczNTMzMDA5NS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
