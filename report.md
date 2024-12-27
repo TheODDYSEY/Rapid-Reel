@@ -1024,3 +1024,28 @@
 | 17 | [FR] Cat and Dog                         | Action    |      5.2 |   2024 |
 | 18 | Conclave                                 | Drama     |      7.4 |   2024 |
 | 19 | Freud's Last Session                     | Action    |      6.1 |   2023 |
+## Date: 2024-12-27, 23:07:13, Friday
+
+## DataFrame
+|    | Title                                            | Genre   |   Rating |   Year |
+|---:|:-------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Lord of the Rings: The War of the Rohirrim   | Action  |      6.6 |   2024 |
+|  1 | Gladiator II                                     | Action  |      6.8 |   2024 |
+|  2 | The Order                                        | Crime   |      7   |   2024 |
+|  3 | The Six Triple Eight                             | Drama   |      6.5 |   2024 |
+|  4 | Bird                                             | Drama   |      7.2 |   2024 |
+|  5 | Small Things Like These                          | Drama   |      7   |   2024 |
+|  6 | Anora                                            | Comedy  |      8   |   2024 |
+|  7 | Dirty Angels                                     | Action  |      4.1 |   2024 |
+|  8 | Omni Loop                                        | Drama   |      5.5 |   2024 |
+|  9 | DragonHeart                                      | Action  |      6.4 |   1996 |
+| 10 | Megalopolis                                      | Drama   |      4.8 |   2024 |
+| 11 | Hush                                             | Action  |      6.6 |   2016 |
+| 12 | Candyman                                         | Action  |      6.7 |   1992 |
+| 13 | Teenage Mutant Ninja Turtles: Out of the Shadows | Action  |      5.9 |   2016 |
+| 14 | Demolition Man                                   | Action  |      6.7 |   1993 |
+| 15 | [ES] The Settlers                                | Action  |      6.9 |   2023 |
+| 16 | Twin Peaks: Fire Walk with Me                    | Action  |      7.3 |   1992 |
+| 17 | The Last House on the Left                       | Action  |      6.5 |   2009 |
+| 18 | Ted                                              | Action  |      6.9 |   2012 |
+| 19 | Starve Acre                                      | Action  |      5.4 |   2023 |
