@@ -1099,3 +1099,28 @@
 | 17 | Ted                                              | Action  |      6.9 |   2012 |
 | 18 | Starve Acre                                      | Action  |      5.4 |   2023 |
 | 19 | The Forge                                        | Action  |      6.4 |   2024 |
+## Date: 2024-12-29, 23:47:56, Sunday
+
+## DataFrame
+|    | Title                                            | Genre   |   Rating |   Year |
+|---:|:-------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Order                                        | Crime   |      7   |   2024 |
+|  1 | Bird                                             | Drama   |      7.2 |   2024 |
+|  2 | The Lord of the Rings: The War of the Rohirrim   | Action  |      6.6 |   2024 |
+|  3 | Gladiator II                                     | Action  |      6.8 |   2024 |
+|  4 | [DA] The Promised Land                           | Action  |      7.7 |   2023 |
+|  5 | The Six Triple Eight                             | Drama   |      6.5 |   2024 |
+|  6 | DragonHeart                                      | Action  |      6.4 |   1996 |
+|  7 | Megalopolis                                      | Drama   |      4.8 |   2024 |
+|  8 | Hush                                             | Action  |      6.6 |   2016 |
+|  9 | Candyman                                         | Action  |      6.7 |   1992 |
+| 10 | Teenage Mutant Ninja Turtles: Out of the Shadows | Action  |      5.9 |   2016 |
+| 11 | Demolition Man                                   | Action  |      6.7 |   1993 |
+| 12 | [ES] The Settlers                                | Action  |      6.9 |   2023 |
+| 13 | Twin Peaks: Fire Walk with Me                    | Action  |      7.3 |   1992 |
+| 14 | The Last House on the Left                       | Action  |      6.5 |   2009 |
+| 15 | Ted                                              | Action  |      6.9 |   2012 |
+| 16 | Starve Acre                                      | Action  |      5.4 |   2023 |
+| 17 | The Forge                                        | Action  |      6.4 |   2024 |
+| 18 | Sideways                                         | Action  |      7.5 |   2004 |
+| 19 | [TH] How to Make Millions Before Grandma Dies    | Comedy  |      8   |   2024 |
