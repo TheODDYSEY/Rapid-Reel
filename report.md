@@ -1074,3 +1074,28 @@
 | 17 | The Last House on the Left                       | Action  |      6.5 |   2009 |
 | 18 | Ted                                              | Action  |      6.9 |   2012 |
 | 19 | Starve Acre                                      | Action  |      5.4 |   2023 |
+## Date: 2024-12-28, 18:38:36, Saturday
+
+## DataFrame
+|    | Title                                            | Genre   |   Rating |   Year |
+|---:|:-------------------------------------------------|:--------|---------:|-------:|
+|  0 | The Lord of the Rings: The War of the Rohirrim   | Action  |      6.6 |   2024 |
+|  1 | Gladiator II                                     | Action  |      6.8 |   2024 |
+|  2 | The Order                                        | Crime   |      7   |   2024 |
+|  3 | Bird                                             | Drama   |      7.2 |   2024 |
+|  4 | Anora                                            | Comedy  |      8   |   2024 |
+|  5 | Dirty Angels                                     | Action  |      4.1 |   2024 |
+|  6 | [DA] The Promised Land                           | Action  |      7.7 |   2023 |
+|  7 | The Six Triple Eight                             | Drama   |      6.5 |   2024 |
+|  8 | DragonHeart                                      | Action  |      6.4 |   1996 |
+|  9 | Megalopolis                                      | Drama   |      4.8 |   2024 |
+| 10 | Hush                                             | Action  |      6.6 |   2016 |
+| 11 | Candyman                                         | Action  |      6.7 |   1992 |
+| 12 | Teenage Mutant Ninja Turtles: Out of the Shadows | Action  |      5.9 |   2016 |
+| 13 | Demolition Man                                   | Action  |      6.7 |   1993 |
+| 14 | [ES] The Settlers                                | Action  |      6.9 |   2023 |
+| 15 | Twin Peaks: Fire Walk with Me                    | Action  |      7.3 |   1992 |
+| 16 | The Last House on the Left                       | Action  |      6.5 |   2009 |
+| 17 | Ted                                              | Action  |      6.9 |   2012 |
+| 18 | Starve Acre                                      | Action  |      5.4 |   2023 |
+| 19 | The Forge                                        | Action  |      6.4 |   2024 |
