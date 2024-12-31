@@ -1124,3 +1124,28 @@
 | 17 | The Forge                                        | Action  |      6.4 |   2024 |
 | 18 | Sideways                                         | Action  |      7.5 |   2004 |
 | 19 | [TH] How to Make Millions Before Grandma Dies    | Comedy  |      8   |   2024 |
+## Date: 2024-12-31, 20:41:39, Tuesday
+
+## DataFrame
+|    | Title                                          | Genre     |   Rating |   Year |
+|---:|:-----------------------------------------------|:----------|---------:|-------:|
+|  0 | Wallace & Gromit: Vengeance Most Fowl          | Adventure |      8   |   2024 |
+|  1 | The Order                                      | Crime     |      7   |   2024 |
+|  2 | Bird                                           | Drama     |      7.2 |   2024 |
+|  3 | The Lord of the Rings: The War of the Rohirrim | Action    |      6.6 |   2024 |
+|  4 | Gladiator II                                   | Action    |      6.8 |   2024 |
+|  5 | Red One                                        | Action    |      6.4 |   2024 |
+|  6 | Venom: The Last Dance                          | Action    |      6   |   2024 |
+|  7 | Joker: Folie à Deux                            | Crime     |      5.2 |   2024 |
+|  8 | Beetlejuice Beetlejuice                        | Comedy    |      6.7 |   2024 |
+|  9 | A Different Man                                | Comedy    |      7   |   2024 |
+| 10 | [HI] Yodha                                     | Action    |      5.7 |   2024 |
+| 11 | [HI] Singham Again                             | Action    |      5.3 |   2024 |
+| 12 | Saturday Night                                 | Biography |      7   |   2024 |
+| 13 | Mr. Monk's Last Case: A Monk Movie             | Action    |      6.7 |   2023 |
+| 14 | The Outrun                                     | Action    |      6.9 |   2024 |
+| 15 | [DA] The Promised Land                         | Action    |      7.7 |   2023 |
+| 16 | The Six Triple Eight                           | Drama     |      6.5 |   2024 |
+| 17 | DragonHeart                                    | Action    |      6.4 |   1996 |
+| 18 | Megalopolis                                    | Drama     |      4.8 |   2024 |
+| 19 | Hush                                           | Action    |      6.6 |   2016 |
