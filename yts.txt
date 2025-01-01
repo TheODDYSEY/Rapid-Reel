@@ -6,11 +6,11 @@
 <meta charset="utf-8"/>
 <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <![endif]-->
 <meta content="width=device-width, minimal-ui, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
-<meta content="Download YIFY Movies: Wallace &amp; Gromit: Vengeance Most Fowl, The Order, Bird, The Lord of the Rings: The War of the Rohirrim, Gladiator II, Red One, Venom: The Last Dance" name="description"/>
+<meta content="Download YIFY Movies: Wicked, Wallace &amp; Gromit: Vengeance Most Fowl, The Lord of the Rings: The War of the Rohirrim, Gladiator II, Red One, Venom: The Last Dance" name="description"/>
 <meta content="yts, yify, yts yify, yify movies, yts movies, yts torrents, yify torrents, yts.mx, yts.ag, yts.am, yts.lt" name="keywords"/>
 <meta content="Download all YIFY Movies Torrents - YTS" property="og:title"/>
 <meta content="https://yts.mx/assets/images/website/og_yts_logo.png" property="og:image"/>
-<meta content="Download YIFY Movies: Wallace &amp; Gromit: Vengeance Most Fowl, The Order, Bird, The Lord of the Rings: The War of the Rohirrim, Gladiator II, Red One, Venom: The Last Dance" property="og:description"/>
+<meta content="Download YIFY Movies: Wicked, Wallace &amp; Gromit: Vengeance Most Fowl, The Lord of the Rings: The War of the Rohirrim, Gladiator II, Red One, Venom: The Last Dance" property="og:description"/>
 <meta content="https%3A%2F%2Fyts.mx%2Fbrowse-movies%2F0%2Fall%2Fall%2F0%2Ffeatured%2F0%2Fall" property="og:url"/>
 <meta content="noindex, follow" name="robots"/>
 <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" /> <![endif]-->
@@ -89,7 +89,7 @@
 <div class="modal-content">
 <div class="modal-login-content">
 <form accept-charset="UTF-8" action="https://yts.mx/" autocapitalize="off" autocorrect="off" method="POST" spellcheck="off">
-<input name="_token" type="hidden" value="ab6a1b0aca8d1236e128edba58e6548c21d144f197de3d9632038659f89f0e82"/>
+<input name="_token" type="hidden" value="870057744b5fd059eaeedd0936223f359c3eee6b470d6d7dc2f3a6194d936379"/>
 <span class="error-msg"></span>
 <div class="inner-addon">
 <span class="glyphicon glyphicon-user"></span>
@@ -107,7 +107,7 @@
 </div>
 <div class="modal-register-content">
 <form accept-charset="UTF-8" action="https://yts.mx/" autocapitalize="off" autocomplete="off" autocorrect="off" method="POST" spellcheck="off">
-<input name="_token" type="hidden" value="ab6a1b0aca8d1236e128edba58e6548c21d144f197de3d9632038659f89f0e82"/>
+<input name="_token" type="hidden" value="870057744b5fd059eaeedd0936223f359c3eee6b470d6d7dc2f3a6194d936379"/>
 <span class="error-msg"></span>
 <div class="inner-addon">
 <span class="glyphicon glyphicon-user"></span>
@@ -131,7 +131,7 @@
 </div>
 <div class="modal-forgotpass-content">
 <form accept-charset="UTF-8" action="https://yts.mx/" autocapitalize="off" autocomplete="off" autocorrect="off" method="POST" spellcheck="off">
-<input name="_token" type="hidden" value="ab6a1b0aca8d1236e128edba58e6548c21d144f197de3d9632038659f89f0e82"/>
+<input name="_token" type="hidden" value="870057744b5fd059eaeedd0936223f359c3eee6b470d6d7dc2f3a6194d936379"/>
 <span class="error-msg"></span>
 <p class="info-msg"> If you have Forgotten your password, just type in your E-mail Address and YTS will send you a link to Reset Your Password. </p>
 <div class="inner-addon">
@@ -160,7 +160,7 @@
 <div class="main-content">
 <div class="hidden-md hidden-lg" id="mobile-search-input">
 <form accept-charset="UTF-8" action="https://yts.mx/search-movies" method="POST">
-<input name="_token" type="hidden" value="ab6a1b0aca8d1236e128edba58e6548c21d144f197de3d9632038659f89f0e82"/>
+<input name="_token" type="hidden" value="870057744b5fd059eaeedd0936223f359c3eee6b470d6d7dc2f3a6194d936379"/>
 <div class="input-group container search-query">
 <input autocomplete="off" autocorrect="off" class="form-control" name="keyword" placeholder="Search for a movie…" type="search"/>
 <span class="input-group-btn"> <button class="btn btn-success" type="submit">Search</button> </span>
@@ -216,10 +216,10 @@
 <p>Year:</p>
 <select name="year">
 <option selected="selected" value="0">All</option>
+<option value="2025">2025</option>
 <option value="2024">2024</option>
-<option value="2023">2023</option>
-<option value="2020-2024">2020-now</option>
-<option value="2010-2024">2010-now</option>
+<option value="2020-2025">2020-now</option>
+<option value="2010-2025">2010-now</option>
 <option value="2010-2019">2010-2019</option>
 <option value="2000-2009">2000-2009</option>
 <option value="1990-1999">1990-1999</option>
@@ -252,26 +252,26 @@
 <option value="foreign">Foreign</option>
 <option selected="selected" value="all">--------All--------</option>
 <option value="fr">French (3091)</option>
-<option value="ja">Japanese (2707)</option>
+<option value="ja">Japanese (2708)</option>
 <option value="es">Spanish (1733)</option>
-<option value="it">Italian (1466)</option>
+<option value="it">Italian (1467)</option>
 <option value="de">German (1190)</option>
-<option value="zh">Chinese (1061)</option>
+<option value="zh">Chinese (1063)</option>
 <option value="ko">Korean (916)</option>
 <option value="cn">Cantonese (801)</option>
 <option value="hi">Hindi (796)</option>
-<option value="sv">Swedish (431)</option>
+<option value="sv">Swedish (432)</option>
 <option value="pt">Portuguese (410)</option>
 <option value="ru">Russian (403)</option>
-<option value="ro">Romanian (372)</option>
+<option value="ro">Romanian (373)</option>
 <option value="pl">Polish (362)</option>
 <option value="tr">Turkish (341)</option>
-<option value="nl">Dutch (263)</option>
+<option value="nl">Dutch (264)</option>
 <option value="th">Thai (242)</option>
 <option value="da">Danish (236)</option>
+<option value="id">Indonesian (177)</option>
 <option value="no">Norwegian (177)</option>
 <option value="ta">Tamil (177)</option>
-<option value="id">Indonesian (176)</option>
 <option value="ar">Arabic (162)</option>
 <option value="te">Telugu (160)</option>
 <option value="fi">Finnish (143)</option>
@@ -416,7 +416,7 @@
 <div class="content-dark hidden-sm hidden-xs" id="main-search">
 <div class="container">
 <form accept-charset="UTF-8" action="https://yts.mx/search-movies" method="post">
-<input name="_token" type="hidden" value="ab6a1b0aca8d1236e128edba58e6548c21d144f197de3d9632038659f89f0e82"/>
+<input name="_token" type="hidden" value="870057744b5fd059eaeedd0936223f359c3eee6b470d6d7dc2f3a6194d936379"/>
 <div id="main-search-fields" style="width: 880px;">
 <p class="pull-left term">Search Term:</p>
 <input autocomplete="off" name="keyword" type="search"/>
@@ -483,10 +483,10 @@
 <p>Year:</p>
 <select name="year">
 <option selected="selected" value="0">All</option>
+<option value="2025">2025</option>
 <option value="2024">2024</option>
-<option value="2023">2023</option>
-<option value="2020-2024">2020-now</option>
-<option value="2010-2024">2010-now</option>
+<option value="2020-2025">2020-now</option>
+<option value="2010-2025">2010-now</option>
 <option value="2010-2019">2010-2019</option>
 <option value="2000-2009">2000-2009</option>
 <option value="1990-1999">1990-1999</option>
@@ -503,26 +503,26 @@
 <option value="foreign">Foreign</option>
 <option selected="selected" value="all">All</option>
 <option value="fr">French (3091)</option>
-<option value="ja">Japanese (2707)</option>
+<option value="ja">Japanese (2708)</option>
 <option value="es">Spanish (1733)</option>
-<option value="it">Italian (1466)</option>
+<option value="it">Italian (1467)</option>
 <option value="de">German (1190)</option>
-<option value="zh">Chinese (1061)</option>
+<option value="zh">Chinese (1063)</option>
 <option value="ko">Korean (916)</option>
 <option value="cn">Cantonese (801)</option>
 <option value="hi">Hindi (796)</option>
-<option value="sv">Swedish (431)</option>
+<option value="sv">Swedish (432)</option>
 <option value="pt">Portuguese (410)</option>
 <option value="ru">Russian (403)</option>
-<option value="ro">Romanian (372)</option>
+<option value="ro">Romanian (373)</option>
 <option value="pl">Polish (362)</option>
 <option value="tr">Turkish (341)</option>
-<option value="nl">Dutch (263)</option>
+<option value="nl">Dutch (264)</option>
 <option value="th">Thai (242)</option>
 <option value="da">Danish (236)</option>
+<option value="id">Indonesian (177)</option>
 <option value="no">Norwegian (177)</option>
 <option value="ta">Tamil (177)</option>
-<option value="id">Indonesian (176)</option>
 <option value="ar">Arabic (162)</option>
 <option value="te">Telugu (160)</option>
 <option value="fi">Finnish (143)</option>
@@ -670,6 +670,23 @@
 <section>
 <div class="row">
 <div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/wicked-2024">
+<figure>
+<img alt="Wicked (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/wicked_2024/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">8 / 10</h4> <h4>Fantasy</h4>
+<h4>Musical</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/wicked-2024">Wicked</a>
+<div class="browse-movie-year">2024</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
 <a class="browse-movie-link" href="https://yts.mx/movies/wallace-gromit-vengeance-most-fowl-2024">
 <figure>
 <img alt="Wallace &amp; Gromit: Vengeance Most Fowl (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/wallace_gromit_vengeance_most_fowl_2024/medium-cover.jpg" width="170"/>
@@ -683,39 +700,6 @@
 </a>
 <div class="browse-movie-bottom">
 <a class="browse-movie-title" href="https://yts.mx/movies/wallace-gromit-vengeance-most-fowl-2024">Wallace &amp; Gromit: Vengeance Most Fowl</a>
-<div class="browse-movie-year">2024</div>
-</div>
-</div>
-<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
-<a class="browse-movie-link" href="https://yts.mx/movies/the-order-2024">
-<figure>
-<img alt="The Order (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/the_order_2024/medium-cover.jpg" width="170"/>
-<figcaption class="hidden-xs hidden-sm">
-<span class="icon-star"></span>
-<h4 class="rating">7 / 10</h4> <h4>Crime</h4>
-<h4>Drama</h4>
-<span class="button-green-download2-big">View Details</span>
-</figcaption>
-</figure>
-</a>
-<div class="browse-movie-bottom">
-<a class="browse-movie-title" href="https://yts.mx/movies/the-order-2024">The Order</a>
-<div class="browse-movie-year">2024</div>
-</div>
-</div>
-<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
-<a class="browse-movie-link" href="https://yts.mx/movies/bird-2024">
-<figure>
-<img alt="Bird (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/bird_2024/medium-cover.jpg" width="170"/>
-<figcaption class="hidden-xs hidden-sm">
-<span class="icon-star"></span>
-<h4 class="rating">7.2 / 10</h4> <h4>Drama</h4>
-<span class="button-green-download2-big">View Details</span>
-</figcaption>
-</figure>
-</a>
-<div class="browse-movie-bottom">
-<a class="browse-movie-title" href="https://yts.mx/movies/bird-2024">Bird</a>
 <div class="browse-movie-year">2024</div>
 </div>
 </div>
@@ -924,6 +908,39 @@
 </div>
 </div>
 <div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/the-order-2024">
+<figure>
+<img alt="The Order (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/the_order_2024/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">7 / 10</h4> <h4>Crime</h4>
+<h4>Drama</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/the-order-2024">The Order</a>
+<div class="browse-movie-year">2024</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
+<a class="browse-movie-link" href="https://yts.mx/movies/bird-2024">
+<figure>
+<img alt="Bird (2024) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/bird_2024/medium-cover.jpg" width="170"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">7.2 / 10</h4> <h4>Drama</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a class="browse-movie-title" href="https://yts.mx/movies/bird-2024">Bird</a>
+<div class="browse-movie-year">2024</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
 <a class="browse-movie-link" href="https://yts.mx/movies/the-promised-land-2023">
 <figure>
 <img alt="The Promised Land (2023) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/the_promised_land_2023/medium-cover.jpg" width="170"/>
@@ -991,23 +1008,6 @@
 <div class="browse-movie-year">2024</div>
 </div>
 </div>
-<div class="browse-movie-wrap col-xs-10 col-sm-4 col-md-5 col-lg-4">
-<a class="browse-movie-link" href="https://yts.mx/movies/hush-2016">
-<figure>
-<img alt="Hush (2016) download" class="img-responsive" height="255" src="https://img.yts.mx/assets/images/movies/hush_2016/medium-cover.jpg" width="170"/>
-<figcaption class="hidden-xs hidden-sm">
-<span class="icon-star"></span>
-<h4 class="rating">6.6 / 10</h4> <h4>Action</h4>
-<h4>Horror</h4>
-<span class="button-green-download2-big">View Details</span>
-</figcaption>
-</figure>
-</a>
-<div class="browse-movie-bottom">
-<a class="browse-movie-title" href="https://yts.mx/movies/hush-2016">Hush</a>
-<div class="browse-movie-year">2016</div>
-</div>
-</div>
 </div>
 </section>
 <div class="hidden-sm hidden-xs">
@@ -1043,7 +1043,7 @@
 <div class="row">
 <div class="col-xs-20">
 <ul class="text-center">
-<li>YTS © 2011 - 2024</li>
+<li>YTS © 2011 - 2025</li>
 <li>-</li>
 <li><a href="https://yts.mx/blog">Blog</a></li>
 <li>-</li>
@@ -1082,5 +1082,5 @@
                         zoneId: '5655310',
                 });
             </script>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8fac0fbacfbfb199',t:'MTczNTY2Njg5Ny4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8fb5b4a29e6eb195',t:'MTczNTc2ODAyNC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>

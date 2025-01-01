@@ -1149,3 +1149,28 @@
 | 17 | DragonHeart                                    | Action    |      6.4 |   1996 |
 | 18 | Megalopolis                                    | Drama     |      4.8 |   2024 |
 | 19 | Hush                                           | Action    |      6.6 |   2016 |
+## Date: 2025-01-02, 00:47:06, Thursday
+
+## DataFrame
+|    | Title                                          | Genre     |   Rating |   Year |
+|---:|:-----------------------------------------------|:----------|---------:|-------:|
+|  0 | Wicked                                         | Fantasy   |      8   |   2024 |
+|  1 | Wallace & Gromit: Vengeance Most Fowl          | Adventure |      8   |   2024 |
+|  2 | The Lord of the Rings: The War of the Rohirrim | Action    |      6.6 |   2024 |
+|  3 | Gladiator II                                   | Action    |      6.8 |   2024 |
+|  4 | Red One                                        | Action    |      6.4 |   2024 |
+|  5 | Venom: The Last Dance                          | Action    |      6   |   2024 |
+|  6 | Joker: Folie à Deux                            | Crime     |      5.2 |   2024 |
+|  7 | Beetlejuice Beetlejuice                        | Comedy    |      6.7 |   2024 |
+|  8 | A Different Man                                | Comedy    |      7   |   2024 |
+|  9 | [HI] Yodha                                     | Action    |      5.7 |   2024 |
+| 10 | [HI] Singham Again                             | Action    |      5.3 |   2024 |
+| 11 | Saturday Night                                 | Biography |      7   |   2024 |
+| 12 | Mr. Monk's Last Case: A Monk Movie             | Action    |      6.7 |   2023 |
+| 13 | The Outrun                                     | Action    |      6.9 |   2024 |
+| 14 | The Order                                      | Crime     |      7   |   2024 |
+| 15 | Bird                                           | Drama     |      7.2 |   2024 |
+| 16 | [DA] The Promised Land                         | Action    |      7.7 |   2023 |
+| 17 | The Six Triple Eight                           | Drama     |      6.5 |   2024 |
+| 18 | DragonHeart                                    | Action    |      6.4 |   1996 |
+| 19 | Megalopolis                                    | Drama     |      4.8 |   2024 |
