@@ -1,5 +1,11 @@
 # YTS Movie Scraper and Dashboard
 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 **YTS Movie Scraper and Dashboard** is a full-stack application that scrapes movie data from YTS, stores it in a PostgreSQL database, and displays it on a Streamlit dashboard. The system is built using FastAPI for backend processing, Streamlit for the UI, Docker for containerization, and GitHub Actions for continuous integration and scheduled scraping.
 
 ## Table of Contents
