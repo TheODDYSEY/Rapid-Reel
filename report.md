@@ -1199,3 +1199,28 @@
 | 17 | Megalopolis                                    | Drama     |      4.8 |   2024 |
 | 18 | Hush                                           | Action    |      6.6 |   2016 |
 | 19 | Candyman                                       | Action    |      6.7 |   1992 |
+## Date: 2025-01-07, 01:05:07, Tuesday
+
+## DataFrame
+|    | Title                                          | Genre     |   Rating |   Year |
+|---:|:-----------------------------------------------|:----------|---------:|-------:|
+|  0 | A Real Pain                                    | Comedy    |      7.3 |   2024 |
+|  1 | Wicked                                         | Fantasy   |      7.9 |   2024 |
+|  2 | Armor                                          | Action    |      3.5 |   2024 |
+|  3 | A Different Man                                | Comedy    |      7   |   2024 |
+|  4 | [HI] Yodha                                     | Action    |      5.7 |   2024 |
+|  5 | [HI] Singham Again                             | Action    |      5.3 |   2024 |
+|  6 | Saturday Night                                 | Biography |      7   |   2024 |
+|  7 | Mr. Monk's Last Case: A Monk Movie             | Action    |      6.7 |   2023 |
+|  8 | The Outrun                                     | Action    |      6.9 |   2024 |
+|  9 | Wallace & Gromit: Vengeance Most Fowl          | Adventure |      8   |   2024 |
+| 10 | The Order                                      | Crime     |      7   |   2024 |
+| 11 | Bird                                           | Drama     |      7.2 |   2024 |
+| 12 | The Lord of the Rings: The War of the Rohirrim | Action    |      6.6 |   2024 |
+| 13 | [DA] The Promised Land                         | Action    |      7.7 |   2023 |
+| 14 | The Six Triple Eight                           | Drama     |      6.5 |   2024 |
+| 15 | Gladiator II                                   | Action    |      6.8 |   2024 |
+| 16 | DragonHeart                                    | Action    |      6.4 |   1996 |
+| 17 | Megalopolis                                    | Drama     |      4.8 |   2024 |
+| 18 | Hush                                           | Action    |      6.6 |   2016 |
+| 19 | Candyman                                       | Action    |      6.7 |   1992 |
