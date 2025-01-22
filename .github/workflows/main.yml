@@ -2,9 +2,9 @@ name: YTS Movie Scraper
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "master" ]
   schedule:
     - cron: '0 3 * * *'  # This will run every day at 6 AM UTC, which is 3 AM EAT
   workflow_dispatch:
